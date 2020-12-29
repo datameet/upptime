@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/ssup.uidai.gov.in",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "65.97%",
-    "uptimeDay": "65.97%",
-    "uptimeWeek": "65.97%",
-    "uptimeMonth": "65.97%",
-    "uptimeYear": "65.97%",
+    "uptime": "0.86%",
+    "uptimeDay": "0.86%",
+    "uptimeWeek": "0.86%",
+    "uptimeMonth": "0.86%",
+    "uptimeYear": "0.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-29": 58,
+      "2020-12-28": 1
     }
   }
 ]
