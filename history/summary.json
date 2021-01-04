@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1860,
-    "timeDay": 1959,
-    "timeWeek": 1860,
-    "timeMonth": 1860,
-    "timeYear": 1860,
+    "time": 1925,
+    "timeDay": 2121,
+    "timeWeek": 1925,
+    "timeMonth": 1925,
+    "timeYear": 1925,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 701,
+      "2021-01-04": 750,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
       "2021-01-01": 1440,
@@ -45,21 +45,41 @@
     }
   },
   {
-    "name": "Passport User Registration",
+    "name": "Passport User Registration Page",
     "url": "https://portal2.passportindia.gov.in/AppOnlineProject/user/RegistrationBaseAction?request_locale=en",
     "icon": "https://favicons.githubusercontent.com/portal2.passportindia.gov.in",
-    "slug": "passport-user-registration",
+    "slug": "passport-user-registration-page",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5288,
-    "timeDay": 5288,
-    "timeWeek": 5288,
-    "timeMonth": 5288,
-    "timeYear": 5288,
+    "time": 5285,
+    "timeDay": 5285,
+    "timeWeek": 5285,
+    "timeMonth": 5285,
+    "timeYear": 5285,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "GST Login Page",
+    "url": "https://services.gst.gov.in/services/login",
+    "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
+    "slug": "gst-login-page",
+    "status": "down",
+    "uptime": "27.69%",
+    "uptimeDay": "27.69%",
+    "uptimeWeek": "27.69%",
+    "uptimeMonth": "27.69%",
+    "uptimeYear": "27.69%",
+    "time": 1417,
+    "timeDay": 1417,
+    "timeWeek": 1417,
+    "timeMonth": 1417,
+    "timeYear": 1417,
+    "dailyMinutesDown": {
+      "2021-01-04": 0
+    }
   }
 ]
