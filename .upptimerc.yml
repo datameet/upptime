@@ -8,8 +8,10 @@ sites:
     url: http://datameet.org/
   - name: Aadhaar Login
     url: https://ssup.uidai.gov.in/ssup/login.html
-  - name: Passport User Registration
+  - name: Passport User Registration Page
     url: https://portal2.passportindia.gov.in/AppOnlineProject/user/RegistrationBaseAction?request_locale=en
+  - name: GST Login Page
+    url : https://services.gst.gov.in/services/login
 
 
 status-website:
