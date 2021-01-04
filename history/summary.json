@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1938,
-    "timeDay": 2072,
-    "timeWeek": 1938,
-    "timeMonth": 1938,
-    "timeYear": 1938,
+    "time": 2033,
+    "timeDay": 2240,
+    "timeWeek": 2033,
+    "timeMonth": 2033,
+    "timeYear": 2033,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 761,
+      "2021-01-04": 767,
       "2021-01-03": 1440,
       "2021-01-02": 1440,
       "2021-01-01": 1440,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5281,
-    "timeDay": 5281,
-    "timeWeek": 5281,
-    "timeMonth": 5281,
-    "timeYear": 5281,
+    "time": 5301,
+    "timeDay": 5301,
+    "timeWeek": 5301,
+    "timeMonth": 5301,
+    "timeYear": 5301,
     "dailyMinutesDown": {}
   },
   {
@@ -68,18 +68,18 @@
     "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "0.38%",
-    "uptimeDay": "0.38%",
-    "uptimeWeek": "0.38%",
-    "uptimeMonth": "0.38%",
-    "uptimeYear": "0.38%",
-    "time": 1403,
-    "timeDay": 1403,
-    "timeWeek": 1403,
-    "timeMonth": 1403,
-    "timeYear": 1403,
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
+    "time": 1401,
+    "timeDay": 1401,
+    "timeWeek": 1401,
+    "timeMonth": 1401,
+    "timeYear": 1401,
     "dailyMinutesDown": {
-      "2021-01-04": 11
+      "2021-01-04": 18
     }
   }
 ]
