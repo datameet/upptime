@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-06": 1195,
+      "2021-01-06": 1209,
       "2021-01-05": 1440,
       "2021-01-04": 1440,
       "2021-01-03": 1440,
@@ -51,19 +51,19 @@
     "url": "https://portal2.passportindia.gov.in/AppOnlineProject/user/RegistrationBaseAction?request_locale=en",
     "icon": "https://favicons.githubusercontent.com/portal2.passportindia.gov.in",
     "slug": "passport-user-registration-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 4473,
-    "timeDay": 2823,
-    "timeWeek": 4473,
-    "timeMonth": 4473,
-    "timeYear": 4473,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 4251,
+    "timeDay": 2869,
+    "timeWeek": 4251,
+    "timeMonth": 4251,
+    "timeYear": 4251,
     "dailyMinutesDown": {
-      "2021-01-06": 0
+      "2021-01-06": 14
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 1403,
     "timeYear": 1403,
     "dailyMinutesDown": {
-      "2021-01-06": 1195,
+      "2021-01-06": 1209,
       "2021-01-05": 1440,
       "2021-01-04": 690
     }
