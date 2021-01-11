@@ -12,6 +12,8 @@ sites:
     url: https://portal2.passportindia.gov.in/AppOnlineProject/user/RegistrationBaseAction?request_locale=en
   - name: GST Login Page
     url : https://services.gst.gov.in/services/login
+  - name: Karnataka State Natural Disaster Management Centre
+    url: http://www.ksndmc.org/
 
 
 status-website:
@@ -20,8 +22,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: DataMeet "**Upptime** is the monitoring page for various Indian Data Sites"
+  introMessage: We monitor multiple Indian Websites.
   navbar:
     - title: Status
       href: /
