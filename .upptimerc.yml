@@ -22,8 +22,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: DataMeet "**Upptime** is the monitoring page for various Indian Data Sites"
-  introMessage: We monitor multiple Indian Websites.
+  introTitle: "DataMeet **Upptime** is the monitoring page for various Indian Data Sites"
+  introMessage: "We monitor multiple Indian Websites".
   navbar:
     - title: Status
       href: /
