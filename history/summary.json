@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-16": 85,
+      "2021-01-16": 419,
       "2021-01-15": 1440,
       "2021-01-14": 1440,
       "2021-01-13": 1440,
@@ -82,11 +82,11 @@
     "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "37.54%",
+    "uptime": "38.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.88%",
-    "uptimeMonth": "37.54%",
-    "uptimeYear": "37.54%",
+    "uptimeWeek": "65.19%",
+    "uptimeMonth": "38.77%",
+    "uptimeYear": "38.77%",
     "time": 1307,
     "timeDay": 1161,
     "timeWeek": 1218,
@@ -108,9 +108,9 @@
     "url": "http://www.ksndmc.org/",
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,6 +119,8 @@
     "timeWeek": 3183,
     "timeMonth": 3183,
     "timeYear": 3183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-16": 0
+    }
   }
 ]
