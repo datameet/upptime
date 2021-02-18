@@ -4,10 +4,10 @@
     "url": "http://datameet.org/",
     "icon": "https://favicons.githubusercontent.com/datameet.org",
     "slug": "data-meet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2073,
@@ -15,7 +15,9 @@
     "timeWeek": 2111,
     "timeMonth": 2154,
     "timeYear": 2073,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-18": 1
+    }
   },
   {
     "name": "Aadhaar Login",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-18": 47,
+      "2021-02-18": 176,
       "2021-02-17": 1440,
       "2021-02-16": 1440,
       "2021-02-15": 1440,
@@ -116,11 +118,11 @@
     "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "83.81%",
+    "uptime": "83.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.81%",
+    "uptimeYear": "83.84%",
     "time": 1309,
     "timeDay": 1376,
     "timeWeek": 1297,
