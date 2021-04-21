@@ -19,8 +19,8 @@ sites:
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  cname: projects.datameet.org
-  baseUrl: /upptime
+  cname: projects.datameet.org/upptime
+  #baseUrl: 
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "DataMeet **Upptime** is the monitoring page for various Indian Data Sites"
