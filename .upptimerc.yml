@@ -14,7 +14,8 @@ sites:
     url : https://services.gst.gov.in/services/login
   - name: Karnataka State Natural Disaster Management Centre
     url: http://www.ksndmc.org/
-
+  - name: Co-WIN Self Registration 
+    url: https://selfregistration.cowin.gov.in/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
