@@ -1,7 +1,7 @@
 url: https://selfregistration.cowin.gov.in/
-status: up
-code: 200
-responseTime: 754
-lastUpdated: 2022-04-16T19:11:29.924Z
+status: down
+code: 403
+responseTime: 265
+lastUpdated: 2022-04-16T19:24:08.790Z
 startTime: Wed Apr 21 2021 09:26:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
