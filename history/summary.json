@@ -10,11 +10,11 @@
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.87%",
-    "time": 2075,
-    "timeDay": 589,
-    "timeWeek": 790,
-    "timeMonth": 936,
-    "timeYear": 2034,
+    "time": 2072,
+    "timeDay": 868,
+    "timeWeek": 794,
+    "timeMonth": 929,
+    "timeYear": 2029,
     "dailyMinutesDown": {
       "2022-05-03": 76,
       "2022-03-23": 50,
@@ -25,8 +25,7 @@
       "2022-01-23": 18,
       "2022-01-07": 88,
       "2021-10-30": 52,
-      "2021-06-21": 39,
-      "2021-05-05": 24
+      "2021-06-21": 39
     }
   },
   {
@@ -46,7 +45,8 @@
     "timeMonth": 3779,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2022-05-04": 887,
+      "2022-05-05": 105,
+      "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
@@ -409,8 +409,7 @@
       "2021-05-09": 1440,
       "2021-05-08": 1440,
       "2021-05-07": 1440,
-      "2021-05-06": 1440,
-      "2021-05-05": 1440
+      "2021-05-06": 1440
     }
   },
   {
@@ -424,10 +423,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3243,
-    "timeDay": 2651,
-    "timeWeek": 2592,
-    "timeMonth": 2695,
+    "time": 3241,
+    "timeDay": 2418,
+    "timeWeek": 2550,
+    "timeMonth": 2701,
     "timeYear": 3355,
     "dailyMinutesDown": {
       "2022-02-15": 78,
@@ -445,16 +444,16 @@
     "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1265,
-    "timeDay": 1555,
-    "timeWeek": 1583,
-    "timeMonth": 1646,
-    "timeYear": 1265,
+    "time": 1266,
+    "timeDay": 1574,
+    "timeWeek": 1566,
+    "timeMonth": 1649,
+    "timeYear": 1266,
     "dailyMinutesDown": {}
   },
   {
@@ -463,18 +462,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "26.91%",
+    "uptime": "26.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.35%",
+    "uptimeYear": "4.22%",
     "time": 1932,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2022-05-04": 887,
+      "2022-05-05": 105,
+      "2022-05-04": 1440,
       "2022-05-03": 1440,
       "2022-05-02": 1440,
       "2022-05-01": 1440,
@@ -835,15 +835,16 @@
     "uptime": "0.21%",
     "uptimeDay": "3.04%",
     "uptimeWeek": "0.59%",
-    "uptimeMonth": "2.37%",
+    "uptimeMonth": "2.35%",
     "uptimeYear": "0.21%",
     "time": 480,
-    "timeDay": 475,
-    "timeWeek": 496,
-    "timeMonth": 560,
-    "timeYear": 483,
+    "timeDay": 437,
+    "timeWeek": 475,
+    "timeMonth": 558,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2022-05-04": 843,
+      "2022-05-05": 105,
+      "2022-05-04": 1396,
       "2022-05-03": 1440,
       "2022-05-02": 1432,
       "2022-05-01": 1440,
@@ -1206,8 +1207,7 @@
       "2021-05-09": 1440,
       "2021-05-08": 1440,
       "2021-05-07": 1440,
-      "2021-05-06": 1440,
-      "2021-05-05": 1440
+      "2021-05-06": 1440
     }
   }
 ]
