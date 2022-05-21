@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.86%",
-    "time": 2036,
-    "timeDay": 1044,
-    "timeWeek": 1295,
-    "timeMonth": 1018,
-    "timeYear": 1981,
+    "time": 2033,
+    "timeDay": 586,
+    "timeWeek": 1218,
+    "timeMonth": 1015,
+    "timeYear": 1979,
     "dailyMinutesDown": {
       "2022-05-16": 18,
       "2022-05-10": 42,
@@ -47,7 +47,8 @@
     "timeMonth": 3779,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2022-05-20": 104,
+      "2022-05-21": 79,
+      "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
@@ -410,8 +411,7 @@
       "2021-05-25": 1440,
       "2021-05-24": 1440,
       "2021-05-23": 1440,
-      "2021-05-22": 1440,
-      "2021-05-21": 1440
+      "2021-05-22": 1440
     }
   },
   {
@@ -425,10 +425,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3223,
-    "timeDay": 2206,
-    "timeWeek": 2615,
-    "timeMonth": 2591,
+    "time": 3222,
+    "timeDay": 2658,
+    "timeWeek": 2665,
+    "timeMonth": 2590,
     "timeYear": 3361,
     "dailyMinutesDown": {
       "2022-02-15": 78,
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 1465,
-    "timeWeek": 1586,
+    "time": 1275,
+    "timeDay": 1609,
+    "timeWeek": 1593,
     "timeMonth": 1627,
-    "timeYear": 1285,
+    "timeYear": 1286,
     "dailyMinutesDown": {}
   },
   {
@@ -464,18 +464,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "26.07%",
+    "uptime": "26.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.11%",
-    "time": 1887,
+    "uptimeYear": "0.00%",
+    "time": 1888,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 104,
+      "2022-05-21": 79,
+      "2022-05-20": 1440,
       "2022-05-19": 1440,
       "2022-05-18": 1440,
       "2022-05-17": 1440,
@@ -838,8 +839,7 @@
       "2021-05-25": 1440,
       "2021-05-24": 1440,
       "2021-05-23": 1440,
-      "2021-05-22": 1440,
-      "2021-05-21": 1440
+      "2021-05-22": 1440
     }
   },
   {
@@ -849,17 +849,18 @@
     "slug": "co-win-self-registration",
     "status": "down",
     "uptime": "0.23%",
-    "uptimeDay": "1.32%",
-    "uptimeWeek": "0.70%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.62%",
     "uptimeMonth": "2.48%",
     "uptimeYear": "0.25%",
     "time": 488,
-    "timeDay": 552,
-    "timeWeek": 525,
-    "timeMonth": 569,
+    "timeDay": 373,
+    "timeWeek": 528,
+    "timeMonth": 570,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2022-05-20": 104,
+      "2022-05-21": 79,
+      "2022-05-20": 1440,
       "2022-05-19": 1421,
       "2022-05-18": 1440,
       "2022-05-17": 1432,
@@ -1222,8 +1223,7 @@
       "2021-05-25": 1440,
       "2021-05-24": 1440,
       "2021-05-23": 1440,
-      "2021-05-22": 1440,
-      "2021-05-21": 1440
+      "2021-05-22": 1440
     }
   }
 ]
