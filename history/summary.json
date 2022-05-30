@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.86%",
-    "time": 2019,
-    "timeDay": 804,
-    "timeWeek": 1059,
-    "timeMonth": 1023,
-    "timeYear": 1965,
+    "time": 2016,
+    "timeDay": 675,
+    "timeWeek": 1056,
+    "timeMonth": 1005,
+    "timeYear": 1964,
     "dailyMinutesDown": {
       "2022-05-16": 18,
       "2022-05-10": 42,
@@ -47,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 2633,
     "dailyMinutesDown": {
-      "2022-05-29": 115,
+      "2022-05-30": 111,
+      "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -410,8 +411,7 @@
       "2021-06-03": 1440,
       "2021-06-02": 1440,
       "2021-06-01": 1440,
-      "2021-05-31": 1440,
-      "2021-05-30": 1440
+      "2021-05-31": 1440
     }
   },
   {
@@ -425,10 +425,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3220,
-    "timeDay": 5313,
-    "timeWeek": 3128,
-    "timeMonth": 2706,
+    "time": 3218,
+    "timeDay": 2473,
+    "timeWeek": 3118,
+    "timeMonth": 2712,
     "timeYear": 3375,
     "dailyMinutesDown": {
       "2022-02-15": 78,
@@ -452,10 +452,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1285,
-    "timeDay": 1817,
-    "timeWeek": 1880,
-    "timeMonth": 1664,
-    "timeYear": 1297,
+    "timeDay": 1554,
+    "timeWeek": 1877,
+    "timeMonth": 1666,
+    "timeYear": 1298,
     "dailyMinutesDown": {}
   },
   {
@@ -464,18 +464,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "25.60%",
+    "uptime": "25.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1905,
+    "time": 1910,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-29": 115,
+      "2022-05-30": 111,
+      "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -838,8 +839,7 @@
       "2021-06-03": 1440,
       "2021-06-02": 1440,
       "2021-06-01": 1440,
-      "2021-05-31": 1440,
-      "2021-05-30": 1440
+      "2021-05-31": 1440
     }
   },
   {
@@ -848,18 +848,19 @@
     "icon": "https://favicons.githubusercontent.com/selfregistration.cowin.gov.in",
     "slug": "co-win-self-registration",
     "status": "down",
-    "uptime": "0.23%",
+    "uptime": "0.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.93%",
     "uptimeYear": "0.25%",
     "time": 495,
-    "timeDay": 3571,
-    "timeWeek": 1057,
+    "timeDay": 537,
+    "timeWeek": 1058,
     "timeMonth": 598,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2022-05-29": 115,
+      "2022-05-30": 111,
+      "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
       "2022-05-26": 1440,
@@ -1222,8 +1223,7 @@
       "2021-06-03": 1440,
       "2021-06-02": 1440,
       "2021-06-01": 1440,
-      "2021-05-31": 1440,
-      "2021-05-30": 1440
+      "2021-05-31": 1440
     }
   }
 ]
