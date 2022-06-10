@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
-    "time": 1994,
-    "timeDay": 1218,
-    "timeWeek": 904,
-    "timeMonth": 1007,
-    "timeYear": 1931,
+    "time": 1992,
+    "timeDay": 614,
+    "timeWeek": 884,
+    "timeMonth": 994,
+    "timeYear": 1926,
     "dailyMinutesDown": {
       "2022-06-03": 20,
       "2022-05-16": 18,
@@ -38,17 +38,18 @@
     "slug": "aadhaar-login",
     "status": "down",
     "uptime": "0.04%",
-    "uptimeDay": "17.85%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "2.55%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.05%",
     "time": 1970,
-    "timeDay": 1307,
+    "timeDay": 0,
     "timeWeek": 1307,
     "timeMonth": 1307,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2022-06-09": 103,
+      "2022-06-10": 110,
+      "2022-06-09": 1440,
       "2022-06-08": 1183,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
@@ -411,8 +412,7 @@
       "2021-06-14": 1440,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
-      "2021-06-11": 1440,
-      "2021-06-10": 1440
+      "2021-06-11": 1440
     }
   },
   {
@@ -426,11 +426,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3207,
-    "timeDay": 2265,
-    "timeWeek": 2633,
-    "timeMonth": 2696,
-    "timeYear": 3379,
+    "time": 3206,
+    "timeDay": 2480,
+    "timeWeek": 2620,
+    "timeMonth": 2688,
+    "timeYear": 3380,
     "dailyMinutesDown": {
       "2022-02-15": 78,
       "2022-02-10": 114,
@@ -452,11 +452,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1293,
-    "timeDay": 1557,
-    "timeWeek": 1588,
-    "timeMonth": 1668,
-    "timeYear": 1311,
+    "time": 1292,
+    "timeDay": 1594,
+    "timeWeek": 1582,
+    "timeMonth": 1664,
+    "timeYear": 1312,
     "dailyMinutesDown": {}
   },
   {
@@ -465,18 +465,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "25.05%",
+    "uptime": "25.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1892,
+    "time": 1887,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 103,
+      "2022-06-10": 110,
+      "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
@@ -839,8 +840,7 @@
       "2021-06-14": 1440,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
-      "2021-06-11": 1440,
-      "2021-06-10": 1440
+      "2021-06-11": 1440
     }
   },
   {
@@ -854,13 +854,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.25%",
-    "time": 500,
-    "timeDay": 309,
-    "timeWeek": 553,
-    "timeMonth": 655,
+    "time": 499,
+    "timeDay": 360,
+    "timeWeek": 545,
+    "timeMonth": 635,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-06-09": 103,
+      "2022-06-10": 110,
+      "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
@@ -1223,8 +1224,7 @@
       "2021-06-14": 1440,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
-      "2021-06-11": 1440,
-      "2021-06-10": 1440
+      "2021-06-11": 1440
     }
   }
 ]
