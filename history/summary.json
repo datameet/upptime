@@ -8,13 +8,13 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.85%",
-    "time": 1980,
-    "timeDay": 1743,
-    "timeWeek": 1014,
-    "timeMonth": 1024,
-    "timeYear": 1913,
+    "time": 1977,
+    "timeDay": 838,
+    "timeWeek": 1046,
+    "timeMonth": 1010,
+    "timeYear": 1911,
     "dailyMinutesDown": {
       "2022-06-03": 20,
       "2022-05-16": 18,
@@ -48,7 +48,8 @@
     "timeMonth": 1307,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2022-06-16": 108,
+      "2022-06-17": 107,
+      "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -411,8 +412,7 @@
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
-      "2021-06-18": 1440,
-      "2021-06-17": 1440
+      "2021-06-18": 1440
     }
   },
   {
@@ -426,11 +426,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3199,
-    "timeDay": 2434,
-    "timeWeek": 2517,
-    "timeMonth": 2713,
-    "timeYear": 3378,
+    "time": 3198,
+    "timeDay": 2637,
+    "timeWeek": 2539,
+    "timeMonth": 2715,
+    "timeYear": 3379,
     "dailyMinutesDown": {
       "2022-02-15": 78,
       "2022-02-10": 114,
@@ -447,16 +447,16 @@
     "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1296,
-    "timeDay": 1597,
-    "timeWeek": 1598,
-    "timeMonth": 1665,
-    "timeYear": 1319,
+    "time": 1297,
+    "timeDay": 1731,
+    "timeWeek": 1618,
+    "timeMonth": 1670,
+    "timeYear": 1320,
     "dailyMinutesDown": {}
   },
   {
@@ -465,7 +465,7 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "24.72%",
+    "uptime": "24.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -476,7 +476,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-16": 108,
+      "2022-06-17": 108,
+      "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -839,8 +840,7 @@
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
-      "2021-06-18": 1440,
-      "2021-06-17": 1440
+      "2021-06-18": 1440
     }
   },
   {
@@ -855,12 +855,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.25%",
     "time": 500,
-    "timeDay": 639,
-    "timeWeek": 516,
-    "timeMonth": 703,
+    "timeDay": 671,
+    "timeWeek": 578,
+    "timeMonth": 704,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2022-06-16": 108,
+      "2022-06-17": 108,
+      "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -1223,8 +1224,7 @@
       "2021-06-21": 1440,
       "2021-06-20": 1440,
       "2021-06-19": 1440,
-      "2021-06-18": 1440,
-      "2021-06-17": 1440
+      "2021-06-18": 1440
     }
   }
 ]
