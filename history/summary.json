@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1942,
-    "timeDay": 890,
-    "timeWeek": 873,
-    "timeMonth": 983,
+    "time": 1940,
+    "timeDay": 1351,
+    "timeWeek": 893,
+    "timeMonth": 1006,
     "timeYear": 1860,
     "dailyMinutesDown": {
       "2022-06-03": 20,
@@ -47,7 +47,8 @@
     "timeMonth": 1307,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2022-07-06": 125,
+      "2022-07-07": 122,
+      "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -410,8 +411,7 @@
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
-      "2021-07-08": 1440,
-      "2021-07-07": 1440
+      "2021-07-08": 1440
     }
   },
   {
@@ -425,11 +425,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 3160,
-    "timeDay": 2507,
-    "timeWeek": 2606,
-    "timeMonth": 2473,
-    "timeYear": 3371,
+    "time": 3156,
+    "timeDay": 3198,
+    "timeWeek": 2726,
+    "timeMonth": 2496,
+    "timeYear": 3372,
     "dailyMinutesDown": {
       "2022-06-21": 17,
       "2022-02-15": 78,
@@ -447,16 +447,16 @@
     "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1308,
-    "timeDay": 1568,
-    "timeWeek": 1653,
-    "timeMonth": 1610,
-    "timeYear": 1341,
+    "timeDay": 1700,
+    "timeWeek": 1663,
+    "timeMonth": 1613,
+    "timeYear": 1343,
     "dailyMinutesDown": {}
   },
   {
@@ -465,18 +465,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "23.80%",
+    "uptime": "23.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1668,
+    "time": 1666,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-06": 125,
+      "2022-07-07": 122,
+      "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -839,8 +840,7 @@
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
-      "2021-07-08": 1440,
-      "2021-07-07": 1440
+      "2021-07-08": 1440
     }
   },
   {
@@ -854,13 +854,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.25%",
-    "time": 518,
-    "timeDay": 903,
-    "timeWeek": 654,
-    "timeMonth": 909,
-    "timeYear": 531,
+    "time": 519,
+    "timeDay": 799,
+    "timeWeek": 689,
+    "timeMonth": 899,
+    "timeYear": 532,
     "dailyMinutesDown": {
-      "2022-07-06": 125,
+      "2022-07-07": 122,
+      "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -1223,8 +1224,7 @@
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
-      "2021-07-08": 1440,
-      "2021-07-07": 1440
+      "2021-07-08": 1440
     }
   }
 ]
