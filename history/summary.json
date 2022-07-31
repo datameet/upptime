@@ -6,15 +6,15 @@
     "slug": "data-meet",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "89.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.53%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.82%",
-    "time": 2040,
-    "timeDay": 12772,
-    "timeWeek": 7328,
-    "timeMonth": 3453,
-    "timeYear": 2032,
+    "time": 2037,
+    "timeDay": 972,
+    "timeWeek": 7325,
+    "timeMonth": 3392,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2022-07-29": 147,
       "2022-07-20": 70,
@@ -41,7 +41,7 @@
     "uptime": "0.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.05%",
     "time": 1970,
     "timeDay": 0,
@@ -49,7 +49,8 @@
     "timeMonth": 0,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2022-07-30": 116,
+      "2022-07-31": 131,
+      "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
@@ -412,8 +413,7 @@
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
-      "2021-08-01": 1440,
-      "2021-07-31": 1440
+      "2021-08-01": 1440
     }
   },
   {
@@ -428,10 +428,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 3153,
-    "timeDay": 2497,
-    "timeWeek": 2530,
-    "timeMonth": 2665,
-    "timeYear": 3364,
+    "timeDay": 2685,
+    "timeWeek": 2453,
+    "timeMonth": 2666,
+    "timeYear": 3363,
     "dailyMinutesDown": {
       "2022-06-21": 17,
       "2022-02-15": 78,
@@ -453,11 +453,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1327,
-    "timeDay": 1822,
-    "timeWeek": 1668,
-    "timeMonth": 1671,
-    "timeYear": 1371,
+    "time": 1328,
+    "timeDay": 1558,
+    "timeWeek": 1643,
+    "timeMonth": 1668,
+    "timeYear": 1372,
     "dailyMinutesDown": {}
   },
   {
@@ -466,18 +466,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "22.79%",
+    "uptime": "22.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1486,
+    "time": 1483,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-30": 116,
+      "2022-07-31": 131,
+      "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
@@ -840,8 +841,7 @@
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
-      "2021-08-01": 1440,
-      "2021-07-31": 1440
+      "2021-08-01": 1440
     }
   },
   {
@@ -850,18 +850,19 @@
     "icon": "https://favicons.githubusercontent.com/selfregistration.cowin.gov.in",
     "slug": "co-win-self-registration",
     "status": "down",
-    "uptime": "0.20%",
+    "uptime": "0.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.25%",
     "time": 524,
-    "timeDay": 630,
-    "timeWeek": 626,
-    "timeMonth": 665,
+    "timeDay": 533,
+    "timeWeek": 609,
+    "timeMonth": 661,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2022-07-30": 116,
+      "2022-07-31": 131,
+      "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
       "2022-07-27": 1440,
@@ -1224,8 +1225,7 @@
       "2021-08-04": 1440,
       "2021-08-03": 1440,
       "2021-08-02": 1440,
-      "2021-08-01": 1440,
-      "2021-07-31": 1440
+      "2021-08-01": 1440
     }
   }
 ]
