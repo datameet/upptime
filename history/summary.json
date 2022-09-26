@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.80%",
-    "time": 1955,
-    "timeDay": 1099,
-    "timeWeek": 1094,
-    "timeMonth": 1069,
-    "timeYear": 1940,
+    "time": 1948,
+    "timeDay": 949,
+    "timeWeek": 1140,
+    "timeMonth": 1065,
+    "timeYear": 1939,
     "dailyMinutesDown": {
       "2022-09-01": 27,
       "2022-08-05": 61,
@@ -41,17 +41,18 @@
     "slug": "aadhaar-login",
     "status": "down",
     "uptime": "0.04%",
-    "uptimeDay": "1.35%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.19%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.06%",
     "time": 2510,
-    "timeDay": 5803,
+    "timeDay": 0,
     "timeWeek": 5803,
     "timeMonth": 3591,
     "timeYear": 2510,
     "dailyMinutesDown": {
-      "2022-09-25": 416,
+      "2022-09-26": 144,
+      "2022-09-25": 1440,
       "2022-09-24": 1420,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
@@ -414,8 +415,7 @@
       "2021-09-30": 1440,
       "2021-09-29": 1440,
       "2021-09-28": 1440,
-      "2021-09-27": 1440,
-      "2021-09-26": 1440
+      "2021-09-27": 1440
     }
   },
   {
@@ -429,10 +429,10 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 3239,
-    "timeDay": 4944,
-    "timeWeek": 3111,
-    "timeMonth": 2717,
+    "time": 3241,
+    "timeDay": 5412,
+    "timeWeek": 3243,
+    "timeMonth": 2742,
     "timeYear": 2831,
     "dailyMinutesDown": {
       "2022-09-25": 23,
@@ -447,16 +447,16 @@
     "icon": "https://favicons.githubusercontent.com/services.gst.gov.in",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1385,
-    "timeDay": 1579,
-    "timeWeek": 1720,
-    "timeMonth": 1756,
-    "timeYear": 1453,
+    "time": 1386,
+    "timeDay": 1587,
+    "timeWeek": 1721,
+    "timeMonth": 1750,
+    "timeYear": 1455,
     "dailyMinutesDown": {}
   },
   {
@@ -465,18 +465,19 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "20.69%",
+    "uptime": "20.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1160,
+    "time": 1186,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-25": 416,
+      "2022-09-26": 144,
+      "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
@@ -839,8 +840,7 @@
       "2021-09-30": 1440,
       "2021-09-29": 1440,
       "2021-09-28": 1440,
-      "2021-09-27": 1440,
-      "2021-09-26": 1440
+      "2021-09-27": 1440
     }
   },
   {
@@ -855,12 +855,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.25%",
     "time": 541,
-    "timeDay": 309,
-    "timeWeek": 544,
-    "timeMonth": 590,
+    "timeDay": 520,
+    "timeWeek": 546,
+    "timeMonth": 588,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2022-09-25": 417,
+      "2022-09-26": 144,
+      "2022-09-25": 1440,
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
@@ -1223,8 +1224,7 @@
       "2021-09-30": 1440,
       "2021-09-29": 1440,
       "2021-09-28": 1440,
-      "2021-09-27": 1440,
-      "2021-09-26": 1440
+      "2021-09-27": 1440
     }
   }
 ]
