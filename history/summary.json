@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.80%",
-    "time": 1944,
-    "timeDay": 835,
-    "timeWeek": 1204,
-    "timeMonth": 1097,
-    "timeYear": 1934,
+    "time": 1943,
+    "timeDay": 1210,
+    "timeWeek": 1171,
+    "timeMonth": 1102,
+    "timeYear": 1930,
     "dailyMinutesDown": {
       "2022-09-01": 27,
       "2022-08-05": 61,
@@ -43,7 +43,7 @@
     "uptime": "0.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.48%",
     "uptimeYear": "0.06%",
     "time": 2510,
     "timeDay": 0,
@@ -51,7 +51,8 @@
     "timeMonth": 3591,
     "timeYear": 2510,
     "dailyMinutesDown": {
-      "2022-09-30": 159,
+      "2022-10-01": 153,
+      "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
@@ -414,8 +415,7 @@
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
-      "2021-10-02": 1440,
-      "2021-10-01": 1440
+      "2021-10-02": 1440
     }
   },
   {
@@ -425,14 +425,14 @@
     "slug": "passport-user-registration-page",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "89.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "81.23%",
     "uptimeMonth": "95.68%",
     "uptimeYear": "99.60%",
-    "time": 3387,
-    "timeDay": 10710,
-    "timeWeek": 10753,
-    "timeMonth": 6055,
+    "time": 3381,
+    "timeDay": 2288,
+    "timeWeek": 10740,
+    "timeMonth": 6142,
     "timeYear": 3191,
     "dailyMinutesDown": {
       "2022-09-29": 154,
@@ -456,11 +456,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1391,
-    "timeDay": 1831,
-    "timeWeek": 1711,
-    "timeMonth": 1761,
-    "timeYear": 1459,
+    "time": 1392,
+    "timeDay": 1691,
+    "timeWeek": 1692,
+    "timeMonth": 1765,
+    "timeYear": 1460,
     "dailyMinutesDown": {}
   },
   {
@@ -469,10 +469,10 @@
     "icon": "https://favicons.githubusercontent.com/www.ksndmc.org",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "20.57%",
+    "uptime": "20.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.99%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "2.07%",
     "uptimeYear": "0.06%",
     "time": 1851,
     "timeDay": 0,
@@ -480,7 +480,8 @@
     "timeMonth": 1851,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2022-09-30": 159,
+      "2022-10-01": 153,
+      "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1139,
@@ -843,8 +844,7 @@
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
-      "2021-10-02": 1440,
-      "2021-10-01": 1440
+      "2021-10-02": 1440
     }
   },
   {
@@ -856,15 +856,16 @@
     "uptime": "0.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.25%",
-    "time": 544,
-    "timeDay": 890,
-    "timeWeek": 635,
-    "timeMonth": 606,
+    "time": 543,
+    "timeDay": 545,
+    "timeWeek": 620,
+    "timeMonth": 607,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2022-09-30": 159,
+      "2022-10-01": 153,
+      "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
@@ -1227,8 +1228,7 @@
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
-      "2021-10-02": 1440,
-      "2021-10-01": 1440
+      "2021-10-02": 1440
     }
   }
 ]
