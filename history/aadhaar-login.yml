@@ -1,7 +1,7 @@
 url: https://ssup.uidai.gov.in/ssup/login.html
-status: up
-code: 200
-responseTime: 5784
-lastUpdated: 2022-10-23T16:37:14.181Z
+status: down
+code: 503
+responseTime: 4925
+lastUpdated: 2022-10-23T17:07:38.811Z
 startTime: Mon Dec 28 2020 23:58:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
