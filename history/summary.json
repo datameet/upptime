@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
-    "time": 1852,
+    "time": 1847,
     "timeDay": 899,
-    "timeWeek": 980,
-    "timeMonth": 1307,
-    "timeYear": 1787,
+    "timeWeek": 905,
+    "timeMonth": 1305,
+    "timeYear": 1783,
     "dailyMinutesDown": {
       "2022-11-18": 122,
       "2022-10-21": 91,
@@ -53,7 +53,8 @@
     "timeMonth": 0,
     "timeYear": 4620,
     "dailyMinutesDown": {
-      "2022-11-27": 102,
+      "2022-11-28": 87,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
@@ -416,8 +417,7 @@
       "2021-12-02": 1440,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
-      "2021-11-29": 1440,
-      "2021-11-28": 1440
+      "2021-11-29": 1440
     }
   },
   {
@@ -432,9 +432,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.59%",
     "time": 3417,
-    "timeDay": 2371,
-    "timeWeek": 3678,
-    "timeMonth": 3003,
+    "timeDay": 2498,
+    "timeWeek": 3643,
+    "timeMonth": 2994,
     "timeYear": 3245,
     "dailyMinutesDown": {
       "2022-11-22": 63,
@@ -460,10 +460,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1445,
-    "timeDay": 1502,
-    "timeWeek": 1632,
+    "timeDay": 1589,
+    "timeWeek": 1616,
     "timeMonth": 1638,
-    "timeYear": 1547,
+    "timeYear": 1548,
     "dailyMinutesDown": {}
   },
   {
@@ -472,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "18.82%",
+    "uptime": "18.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -483,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2022-11-27": 102,
+      "2022-11-28": 87,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
@@ -846,8 +847,7 @@
       "2021-12-02": 1440,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
-      "2021-11-29": 1440,
-      "2021-11-28": 1440
+      "2021-11-29": 1440
     }
   },
   {
@@ -856,18 +856,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/selfregistration.cowin.gov.in.ico",
     "slug": "co-win-self-registration",
     "status": "down",
-    "uptime": "0.16%",
+    "uptime": "0.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.25%",
     "time": 591,
-    "timeDay": 639,
-    "timeWeek": 596,
-    "timeMonth": 952,
-    "timeYear": 625,
+    "timeDay": 589,
+    "timeWeek": 537,
+    "timeMonth": 945,
+    "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-11-27": 102,
+      "2022-11-28": 87,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
@@ -1230,8 +1231,7 @@
       "2021-12-02": 1440,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
-      "2021-11-29": 1440,
-      "2021-11-28": 1440
+      "2021-11-29": 1440
     }
   }
 ]
