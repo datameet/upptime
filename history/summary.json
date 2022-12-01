@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.76%",
-    "time": 1844,
-    "timeDay": 1202,
-    "timeWeek": 904,
-    "timeMonth": 1281,
-    "timeYear": 1780,
+    "time": 1843,
+    "timeDay": 1210,
+    "timeWeek": 986,
+    "timeMonth": 1282,
+    "timeYear": 1777,
     "dailyMinutesDown": {
       "2022-11-18": 122,
       "2022-10-21": 91,
@@ -42,10 +42,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "0.39%",
+    "uptime": "0.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.74%",
     "time": 4620,
     "timeDay": 0,
@@ -53,7 +53,8 @@
     "timeMonth": 0,
     "timeYear": 4620,
     "dailyMinutesDown": {
-      "2022-11-30": 97,
+      "2022-12-01": 107,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -416,8 +417,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   },
   {
@@ -432,9 +432,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.59%",
     "time": 3416,
-    "timeDay": 2522,
-    "timeWeek": 2660,
-    "timeMonth": 3001,
+    "timeDay": 2621,
+    "timeWeek": 2640,
+    "timeMonth": 2997,
     "timeYear": 3247,
     "dailyMinutesDown": {
       "2022-11-22": 63,
@@ -459,11 +459,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1446,
-    "timeDay": 1585,
-    "timeWeek": 1597,
-    "timeMonth": 1635,
-    "timeYear": 1551,
+    "time": 1447,
+    "timeDay": 1601,
+    "timeWeek": 1600,
+    "timeMonth": 1630,
+    "timeYear": 1552,
     "dailyMinutesDown": {}
   },
   {
@@ -472,10 +472,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "18.74%",
+    "uptime": "18.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.06%",
     "time": 1851,
     "timeDay": 0,
@@ -483,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2022-11-30": 97,
+      "2022-12-01": 107,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -846,8 +847,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   },
   {
@@ -859,15 +859,16 @@
     "uptime": "0.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.25%",
     "time": 609,
-    "timeDay": 5387,
-    "timeWeek": 1971,
-    "timeMonth": 1252,
-    "timeYear": 646,
+    "timeDay": 604,
+    "timeWeek": 1976,
+    "timeMonth": 1267,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2022-11-30": 97,
+      "2022-12-01": 107,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -1230,8 +1231,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   }
 ]
