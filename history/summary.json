@@ -6,15 +6,15 @@
     "slug": "data-meet",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.75%",
-    "time": 1861,
-    "timeDay": 6678,
-    "timeWeek": 2380,
-    "timeMonth": 1574,
-    "timeYear": 1796,
+    "time": 1855,
+    "timeDay": 555,
+    "timeWeek": 2337,
+    "timeMonth": 1567,
+    "timeYear": 1794,
     "dailyMinutesDown": {
       "2022-12-02": 29,
       "2022-11-18": 122,
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 4620,
     "dailyMinutesDown": {
-      "2022-12-03": 79,
+      "2022-12-04": 85,
+      "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -417,8 +418,7 @@
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
-      "2021-12-05": 1440,
-      "2021-12-04": 1440
+      "2021-12-05": 1440
     }
   },
   {
@@ -432,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.59%",
-    "time": 3417,
-    "timeDay": 2907,
-    "timeWeek": 2594,
-    "timeMonth": 2993,
-    "timeYear": 3248,
+    "time": 3424,
+    "timeDay": 6356,
+    "timeWeek": 3164,
+    "timeMonth": 3104,
+    "timeYear": 3258,
     "dailyMinutesDown": {
       "2022-11-22": 63,
       "2022-09-29": 154,
@@ -460,11 +460,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1449,
-    "timeDay": 1740,
-    "timeWeek": 1605,
-    "timeMonth": 1630,
-    "timeYear": 1555,
+    "time": 1450,
+    "timeDay": 1589,
+    "timeWeek": 1618,
+    "timeMonth": 1629,
+    "timeYear": 1556,
     "dailyMinutesDown": {}
   },
   {
@@ -473,7 +473,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "18.66%",
+    "uptime": "18.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -484,7 +484,8 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2022-12-03": 80,
+      "2022-12-04": 85,
+      "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -847,8 +848,7 @@
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
-      "2021-12-05": 1440,
-      "2021-12-04": 1440
+      "2021-12-05": 1440
     }
   },
   {
@@ -863,12 +863,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.25%",
     "time": 610,
-    "timeDay": 931,
-    "timeWeek": 2038,
+    "timeDay": 512,
+    "timeWeek": 2020,
     "timeMonth": 1278,
-    "timeYear": 648,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2022-12-03": 80,
+      "2022-12-04": 85,
+      "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
@@ -1231,8 +1232,7 @@
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1440,
-      "2021-12-05": 1440,
-      "2021-12-04": 1440
+      "2021-12-05": 1440
     }
   }
 ]
