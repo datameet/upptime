@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.75%",
-    "time": 1784,
-    "timeDay": 901,
-    "timeWeek": 1109,
-    "timeMonth": 1039,
-    "timeYear": 1745,
+    "time": 1781,
+    "timeDay": 795,
+    "timeWeek": 1013,
+    "timeMonth": 1046,
+    "timeYear": 1744,
     "dailyMinutesDown": {
       "2022-12-17": 17,
       "2022-12-02": 29,
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 4620,
     "dailyMinutesDown": {
-      "2023-01-03": 79,
+      "2023-01-04": 81,
+      "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -418,8 +419,7 @@
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
-      "2022-01-05": 1440,
-      "2022-01-04": 1440
+      "2022-01-05": 1440
     }
   },
   {
@@ -429,15 +429,15 @@
     "slug": "passport-user-registration-page",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "93.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.57%",
-    "time": 3654,
-    "timeDay": 22512,
-    "timeWeek": 12937,
-    "timeMonth": 6265,
-    "timeYear": 3534,
+    "time": 3651,
+    "timeDay": 2704,
+    "timeWeek": 12965,
+    "timeMonth": 6166,
+    "timeYear": 3535,
     "dailyMinutesDown": {
       "2023-01-02": 92,
       "2022-11-22": 63,
@@ -463,10 +463,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1475,
-    "timeDay": 1610,
-    "timeWeek": 1602,
+    "timeDay": 1573,
+    "timeWeek": 1600,
     "timeMonth": 1616,
-    "timeYear": 1600,
+    "timeYear": 1602,
     "dailyMinutesDown": {}
   },
   {
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "17.86%",
+    "uptime": "17.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2023-01-03": 79,
+      "2023-01-04": 81,
+      "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -849,8 +850,7 @@
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
-      "2022-01-05": 1440,
-      "2022-01-04": 1440
+      "2022-01-05": 1440
     }
   },
   {
@@ -865,12 +865,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.25%",
     "time": 620,
-    "timeDay": 611,
-    "timeWeek": 587,
-    "timeMonth": 584,
-    "timeYear": 657,
+    "timeDay": 348,
+    "timeWeek": 560,
+    "timeMonth": 579,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2023-01-03": 79,
+      "2023-01-04": 81,
+      "2023-01-03": 1440,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -1233,8 +1234,7 @@
       "2022-01-08": 1440,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
-      "2022-01-05": 1440,
-      "2022-01-04": 1440
+      "2022-01-05": 1440
     }
   }
 ]
