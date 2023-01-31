@@ -10,11 +10,11 @@
     "uptimeWeek": "98.76%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.76%",
-    "time": 1735,
-    "timeDay": 811,
-    "timeWeek": 1464,
-    "timeMonth": 1079,
-    "timeYear": 1677,
+    "time": 1733,
+    "timeDay": 1066,
+    "timeWeek": 1451,
+    "timeMonth": 1075,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2023-01-25": 124,
       "2023-01-06": 34,
@@ -54,7 +54,8 @@
     "timeMonth": 5287,
     "timeYear": 4777,
     "dailyMinutesDown": {
-      "2023-01-30": 80,
+      "2023-01-31": 85,
+      "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
@@ -417,8 +418,7 @@
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
-      "2022-02-01": 1440,
-      "2022-01-31": 1440
+      "2022-02-01": 1440
     }
   },
   {
@@ -433,10 +433,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.57%",
     "time": 3273,
-    "timeDay": 2795,
-    "timeWeek": 3173,
-    "timeMonth": 6155,
-    "timeYear": 3567,
+    "timeDay": 2632,
+    "timeWeek": 3190,
+    "timeMonth": 6047,
+    "timeYear": 3568,
     "dailyMinutesDown": {
       "2023-01-02": 92,
       "2022-11-22": 63,
@@ -461,11 +461,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1497,
-    "timeDay": 1623,
-    "timeWeek": 1638,
+    "time": 1498,
+    "timeDay": 1598,
+    "timeWeek": 1648,
     "timeMonth": 1614,
-    "timeYear": 1638,
+    "timeYear": 1640,
     "dailyMinutesDown": {}
   },
   {
@@ -474,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "17.21%",
+    "uptime": "17.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -485,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2023-01-30": 80,
+      "2023-01-31": 85,
+      "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
@@ -848,8 +849,7 @@
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
-      "2022-02-01": 1440,
-      "2022-01-31": 1440
+      "2022-02-01": 1440
     }
   },
   {
@@ -864,12 +864,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.23%",
     "time": 632,
-    "timeDay": 556,
-    "timeWeek": 531,
-    "timeMonth": 685,
+    "timeDay": 363,
+    "timeWeek": 497,
+    "timeMonth": 678,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-01-30": 80,
+      "2023-01-31": 85,
+      "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
@@ -1232,8 +1233,7 @@
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
-      "2022-02-01": 1430,
-      "2022-01-31": 1440
+      "2022-02-01": 1430
     }
   }
 ]
