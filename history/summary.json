@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 1705,
-    "timeDay": 1063,
-    "timeWeek": 1649,
-    "timeMonth": 1852,
-    "timeYear": 1653,
+    "uptimeYear": "99.77%",
+    "time": 1704,
+    "timeDay": 855,
+    "timeWeek": 1620,
+    "timeMonth": 1843,
+    "timeYear": 1597,
     "dailyMinutesDown": {
       "2023-01-25": 124,
       "2023-01-06": 34,
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "0.38%",
+    "uptime": "0.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 4777,
     "dailyMinutesDown": {
-      "2023-03-05": 105,
+      "2023-03-06": 87,
+      "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -415,8 +416,7 @@
       "2022-03-10": 1418,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
-      "2022-03-07": 1440,
-      "2022-03-06": 1440
+      "2022-03-07": 1440
     }
   },
   {
@@ -430,11 +430,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.60%",
-    "time": 3418,
-    "timeDay": 2524,
-    "timeWeek": 2938,
-    "timeMonth": 4843,
-    "timeYear": 3617,
+    "time": 3419,
+    "timeDay": 2765,
+    "timeWeek": 2920,
+    "timeMonth": 4844,
+    "timeYear": 3618,
     "dailyMinutesDown": {
       "2023-02-13": 25,
       "2023-01-02": 92,
@@ -458,10 +458,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1538,
-    "timeDay": 1583,
-    "timeWeek": 1637,
-    "timeMonth": 1814,
+    "time": 1539,
+    "timeDay": 1602,
+    "timeWeek": 1619,
+    "timeMonth": 1812,
     "timeYear": 1669,
     "dailyMinutesDown": {}
   },
@@ -471,7 +471,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "16.47%",
+    "uptime": "16.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -482,7 +482,8 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2023-03-05": 105,
+      "2023-03-06": 87,
+      "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -845,8 +846,7 @@
       "2022-03-10": 1440,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
-      "2022-03-07": 1440,
-      "2022-03-06": 1440
+      "2022-03-07": 1440
     }
   },
   {
@@ -859,14 +859,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "0.21%",
-    "time": 642,
-    "timeDay": 805,
-    "timeWeek": 591,
-    "timeMonth": 650,
-    "timeYear": 692,
+    "uptimeYear": "0.20%",
+    "time": 643,
+    "timeDay": 684,
+    "timeWeek": 593,
+    "timeMonth": 652,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2023-03-05": 105,
+      "2023-03-06": 87,
+      "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
@@ -1229,8 +1230,7 @@
       "2022-03-10": 1440,
       "2022-03-09": 1432,
       "2022-03-08": 1426,
-      "2022-03-07": 1440,
-      "2022-03-06": 1432
+      "2022-03-07": 1440
     }
   }
 ]
