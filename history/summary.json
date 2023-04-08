@@ -39,11 +39,11 @@
     "url": "https://ssup.uidai.gov.in/ssup/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "50.15%",
-    "uptimeWeek": "66.65%",
-    "uptimeMonth": "92.19%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "51.32%",
+    "uptimeWeek": "66.76%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "99.35%",
     "time": 2781,
     "timeDay": 2208,
@@ -51,14 +51,14 @@
     "timeMonth": 2562,
     "timeYear": 2785,
     "dailyMinutesDown": {
-      "2023-04-08": 318,
+      "2023-04-08": 319,
       "2023-04-07": 714,
       "2023-04-06": 781,
       "2023-04-05": 485,
       "2023-04-04": 230,
       "2023-04-03": 366,
       "2023-04-02": 330,
-      "2023-04-01": 194
+      "2023-04-01": 177
     }
   },
   {
@@ -99,7 +99,7 @@
     "uptime": "97.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.57%",
+    "uptimeMonth": "68.53%",
     "uptimeYear": "97.38%",
     "time": 1578,
     "timeDay": 1632,
@@ -107,7 +107,7 @@
     "timeMonth": 1647,
     "timeYear": 1670,
     "dailyMinutesDown": {
-      "2023-04-08": 541,
+      "2023-04-08": 559,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2023-04-08": 541,
+      "2023-04-08": 559,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 569,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2023-04-08": 541,
+      "2023-04-08": 559,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
