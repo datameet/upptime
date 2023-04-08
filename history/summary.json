@@ -39,11 +39,11 @@
     "url": "https://ssup.uidai.gov.in/ssup/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "48.07%",
-    "uptimeWeek": "64.34%",
-    "uptimeMonth": "91.79%",
+    "uptimeDay": "48.02%",
+    "uptimeWeek": "64.50%",
+    "uptimeMonth": "91.83%",
     "uptimeYear": "99.32%",
     "time": 2757,
     "timeDay": 2256,
@@ -51,14 +51,14 @@
     "timeMonth": 2544,
     "timeYear": 2761,
     "dailyMinutesDown": {
-      "2023-04-08": 654,
+      "2023-04-08": 655,
       "2023-04-07": 714,
       "2023-04-06": 781,
       "2023-04-05": 485,
       "2023-04-04": 230,
       "2023-04-03": 366,
       "2023-04-02": 330,
-      "2023-04-01": 33
+      "2023-04-01": 17
     }
   },
   {
@@ -69,12 +69,12 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.67%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.58%",
     "time": 3431,
     "timeDay": 3817,
-    "timeWeek": 2712,
+    "timeWeek": 2823,
     "timeMonth": 2781,
     "timeYear": 3595,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
     "uptime": "97.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.16%",
+    "uptimeMonth": "67.14%",
     "uptimeYear": "97.26%",
     "time": 1578,
     "timeDay": 1632,
@@ -107,7 +107,7 @@
     "timeMonth": 1647,
     "timeYear": 1670,
     "dailyMinutesDown": {
-      "2023-04-08": 1156,
+      "2023-04-08": 1166,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -137,7 +137,7 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2023-04-08": 1156,
+      "2023-04-08": 1166,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -521,7 +521,7 @@
     "timeMonth": 569,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2023-04-08": 1156,
+      "2023-04-08": 1166,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
