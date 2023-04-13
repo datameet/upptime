@@ -41,13 +41,13 @@
     "slug": "aadhaar-login",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "43.67%",
+    "uptimeDay": "49.08%",
     "uptimeWeek": "57.54%",
     "uptimeMonth": "90.23%",
     "uptimeYear": "99.19%",
     "time": 2737,
-    "timeDay": 3055,
-    "timeWeek": 2431,
+    "timeDay": 3110,
+    "timeWeek": 2436,
     "timeMonth": 2581,
     "timeYear": 2739,
     "dailyMinutesDown": {
@@ -94,18 +94,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "97.42%",
+    "uptime": "97.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.41%",
-    "uptimeYear": "96.12%",
+    "uptimeMonth": "53.20%",
+    "uptimeYear": "96.10%",
     "time": 1583,
     "timeDay": 1569,
     "timeWeek": 1646,
     "timeMonth": 1651,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2023-04-12": 1421,
+      "2023-04-13": 74,
+      "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -128,7 +129,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "15.69%",
+    "uptime": "15.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -139,7 +140,8 @@
     "timeMonth": 0,
     "timeYear": 1851,
     "dailyMinutesDown": {
-      "2023-04-12": 1421,
+      "2023-04-13": 74,
+      "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -502,8 +504,7 @@
       "2022-04-17": 1440,
       "2022-04-16": 1440,
       "2022-04-15": 1440,
-      "2022-04-14": 1440,
-      "2022-04-13": 1440
+      "2022-04-14": 1440
     }
   },
   {
@@ -523,7 +524,8 @@
     "timeMonth": 567,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-04-12": 1421,
+      "2023-04-13": 74,
+      "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -886,8 +888,7 @@
       "2022-04-17": 1440,
       "2022-04-16": 1428,
       "2022-04-15": 1440,
-      "2022-04-14": 1440,
-      "2022-04-13": 1440
+      "2022-04-14": 1440
     }
   }
 ]
