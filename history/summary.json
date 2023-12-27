@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.20%",
     "time": 1302,
-    "timeDay": 1073,
-    "timeWeek": 1020,
-    "timeMonth": 999,
-    "timeYear": 1281,
+    "timeDay": 1076,
+    "timeWeek": 979,
+    "timeMonth": 1003,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2023-11-19": 122,
       "2023-11-18": 85,
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "77.28%",
+    "uptime": "77.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.98%",
+    "uptimeYear": "31.93%",
     "time": 2652,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2579,
     "dailyMinutesDown": {
-      "2023-12-26": 1258,
+      "2023-12-27": 66,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -348,9 +349,9 @@
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.81%",
     "time": 3840,
-    "timeDay": 2523,
-    "timeWeek": 2606,
-    "timeMonth": 4895,
+    "timeDay": 2508,
+    "timeWeek": 2608,
+    "timeMonth": 4892,
     "timeYear": 3820,
     "dailyMinutesDown": {
       "2023-12-01": 33,
@@ -378,12 +379,12 @@
     "uptime": "75.14%",
     "uptimeDay": "90.33%",
     "uptimeWeek": "90.85%",
-    "uptimeMonth": "31.57%",
+    "uptimeMonth": "32.13%",
     "uptimeYear": "27.98%",
     "time": 1690,
-    "timeDay": 1630,
-    "timeWeek": 1610,
-    "timeMonth": 1626,
+    "timeDay": 1661,
+    "timeWeek": 1616,
+    "timeMonth": 1629,
     "timeYear": 1693,
     "dailyMinutesDown": {
       "2023-12-26": 139,
@@ -673,7 +674,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-26": 1258,
+      "2023-12-27": 67,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -1036,8 +1038,7 @@
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
-      "2022-12-28": 1440,
-      "2022-12-27": 1440
+      "2022-12-28": 1440
     }
   },
   {
@@ -1051,13 +1052,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 739,
-    "timeDay": 918,
-    "timeWeek": 542,
-    "timeMonth": 591,
+    "time": 738,
+    "timeDay": 532,
+    "timeWeek": 544,
+    "timeMonth": 592,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2023-12-26": 1258,
+      "2023-12-27": 67,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -1420,8 +1422,7 @@
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
-      "2022-12-28": 1440,
-      "2022-12-27": 1440
+      "2022-12-28": 1440
     }
   }
 ]
