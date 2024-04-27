@@ -9,12 +9,12 @@
     "uptimeDay": "98.86%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "92.69%",
-    "time": 1239,
-    "timeDay": 1660,
-    "timeWeek": 1356,
-    "timeMonth": 1493,
-    "timeYear": 1229,
+    "uptimeYear": "92.76%",
+    "time": 1238,
+    "timeDay": 1535,
+    "timeWeek": 1316,
+    "timeMonth": 1476,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2024-04-26": 16,
       "2024-03-15": 26,
@@ -48,8 +48,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -58,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "69.53%",
+    "uptime": "69.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2728,
+    "time": 2756,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-26": 1139,
+      "2024-04-27": 66,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -432,8 +432,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -442,16 +441,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.82%",
-    "time": 3792,
-    "timeDay": 3108,
-    "timeWeek": 2846,
-    "timeMonth": 5484,
-    "timeYear": 3661,
+    "time": 3791,
+    "timeDay": 2634,
+    "timeWeek": 2853,
+    "timeMonth": 5409,
+    "timeYear": 3663,
     "dailyMinutesDown": {
       "2024-03-28": 66,
       "2024-03-27": 128,
@@ -474,18 +473,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
     "status": "down",
-    "uptime": "77.09%",
-    "uptimeDay": "85.29%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "95.73%",
+    "uptime": "77.08%",
+    "uptimeDay": "72.70%",
+    "uptimeWeek": "93.98%",
+    "uptimeMonth": "95.47%",
     "uptimeYear": "33.80%",
     "time": 1705,
-    "timeDay": 1893,
-    "timeWeek": 1862,
-    "timeMonth": 1791,
+    "timeDay": 1760,
+    "timeWeek": 1847,
+    "timeMonth": 1787,
     "timeYear": 1716,
     "dailyMinutesDown": {
-      "2024-04-26": 25,
+      "2024-04-27": 67,
+      "2024-04-26": 326,
       "2024-04-25": 214,
       "2024-04-11": 224,
       "2024-04-10": 11,
@@ -767,8 +767,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -777,7 +776,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "10.73%",
+    "uptime": "10.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -788,7 +787,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-26": 1139,
+      "2024-04-27": 67,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -1151,8 +1151,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -1167,12 +1166,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 685,
-    "timeDay": 731,
-    "timeWeek": 717,
-    "timeMonth": 771,
-    "timeYear": 696,
+    "timeDay": 790,
+    "timeWeek": 706,
+    "timeMonth": 772,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-04-26": 1139,
+      "2024-04-27": 67,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -1535,8 +1535,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   }
 ]
