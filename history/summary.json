@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "93.79%",
-    "time": 1248,
-    "timeDay": 1065,
-    "timeWeek": 1683,
-    "timeMonth": 1590,
-    "timeYear": 1240,
+    "uptimeYear": "93.85%",
+    "time": 1249,
+    "timeDay": 1067,
+    "timeWeek": 1684,
+    "timeMonth": 1600,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2024-04-29": 25,
       "2024-04-26": 16,
@@ -45,8 +45,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -55,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "69.30%",
+    "uptime": "69.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2784,
+    "time": 2804,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-30": 1201,
+      "2024-05-01": 70,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -429,8 +429,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -444,10 +443,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 3789,
-    "timeDay": 2701,
-    "timeWeek": 2810,
-    "timeMonth": 2822,
+    "time": 3790,
+    "timeDay": 3000,
+    "timeWeek": 2819,
+    "timeMonth": 2802,
     "timeYear": 3662,
     "dailyMinutesDown": {
       "2024-03-28": 66,
@@ -470,19 +469,20 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "down",
-    "uptime": "77.13%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "90.25%",
-    "uptimeMonth": "95.45%",
+    "status": "up",
+    "uptime": "77.11%",
+    "uptimeDay": "78.54%",
+    "uptimeWeek": "87.19%",
+    "uptimeMonth": "94.74%",
     "uptimeYear": "34.77%",
     "time": 1706,
-    "timeDay": 1699,
-    "timeWeek": 1776,
+    "timeDay": 1744,
+    "timeWeek": 1779,
     "timeMonth": 1775,
-    "timeYear": 1715,
+    "timeYear": 1716,
     "dailyMinutesDown": {
-      "2024-04-30": 1,
+      "2024-05-01": 69,
+      "2024-04-30": 240,
       "2024-04-28": 29,
       "2024-04-27": 413,
       "2024-04-26": 326,
@@ -763,8 +763,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -776,7 +775,7 @@
     "uptime": "10.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -784,7 +783,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-30": 1201,
+      "2024-05-01": 70,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -1147,8 +1147,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   },
   {
@@ -1160,15 +1159,16 @@
     "uptime": "0.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 685,
-    "timeDay": 645,
-    "timeWeek": 729,
-    "timeMonth": 772,
+    "timeDay": 672,
+    "timeWeek": 730,
+    "timeMonth": 767,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-04-30": 1201,
+      "2024-05-01": 70,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -1531,8 +1531,7 @@
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
-      "2023-05-03": 1440,
-      "2023-05-02": 1440
+      "2023-05-03": 1440
     }
   }
 ]
