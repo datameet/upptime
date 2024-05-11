@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "96.31%",
+    "uptimeYear": "96.59%",
     "time": 1240,
-    "timeDay": 934,
-    "timeWeek": 941,
-    "timeMonth": 1683,
-    "timeYear": 1250,
+    "timeDay": 899,
+    "timeWeek": 930,
+    "timeMonth": 1686,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2024-04-29": 25,
       "2024-04-26": 16,
@@ -35,8 +35,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -45,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "68.78%",
+    "uptime": "68.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2825,
+    "time": 2845,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-10": 69,
+      "2024-05-11": 69,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -419,8 +419,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -434,11 +433,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.82%",
-    "time": 3761,
-    "timeDay": 2411,
-    "timeWeek": 4015,
-    "timeMonth": 3186,
-    "timeYear": 3661,
+    "time": 3717,
+    "timeDay": 2629,
+    "timeWeek": 3930,
+    "timeMonth": 3181,
+    "timeYear": 3627,
     "dailyMinutesDown": {
       "2024-05-04": 43,
       "2024-03-28": 66,
@@ -461,15 +460,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
     "status": "up",
-    "uptime": "77.22%",
+    "uptime": "77.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.45%",
-    "uptimeMonth": "94.30%",
-    "uptimeYear": "37.05%",
-    "time": 1709,
-    "timeDay": 1633,
-    "timeWeek": 1755,
-    "timeMonth": 1764,
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "94.48%",
+    "uptimeYear": "37.33%",
+    "time": 1710,
+    "timeDay": 1703,
+    "timeWeek": 1729,
+    "timeMonth": 1769,
     "timeYear": 1718,
     "dailyMinutesDown": {
       "2024-05-06": 101,
@@ -748,8 +747,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -758,7 +756,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "10.61%",
+    "uptime": "10.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -769,7 +767,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-10": 70,
+      "2024-05-11": 69,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -1132,8 +1131,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   },
   {
@@ -1147,13 +1145,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 686,
-    "timeDay": 752,
-    "timeWeek": 649,
+    "time": 687,
+    "timeDay": 505,
+    "timeWeek": 628,
     "timeMonth": 664,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-05-10": 70,
+      "2024-05-11": 69,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -1516,8 +1515,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
-      "2023-05-13": 1440,
-      "2023-05-12": 1440
+      "2023-05-13": 1440
     }
   }
 ]
