@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.83%",
-    "time": 1401,
-    "timeDay": 1067,
-    "timeWeek": 2415,
-    "timeMonth": 2480,
+    "time": 1400,
+    "timeDay": 871,
+    "timeWeek": 2667,
+    "timeMonth": 2478,
     "timeYear": 1423,
     "dailyMinutesDown": {
       "2024-05-31": 454,
@@ -36,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "67.20%",
+    "uptime": "67.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -47,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-07": 1126,
+      "2024-06-08": 65,
+      "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -410,8 +411,7 @@
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -425,11 +425,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.81%",
-    "time": 3714,
-    "timeDay": 2801,
-    "timeWeek": 4390,
-    "timeMonth": 5010,
-    "timeYear": 3763,
+    "time": 3716,
+    "timeDay": 4953,
+    "timeWeek": 4745,
+    "timeMonth": 5082,
+    "timeYear": 3768,
     "dailyMinutesDown": {
       "2024-05-14": 23,
       "2024-05-04": 43,
@@ -452,19 +452,20 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "down",
-    "uptime": "77.47%",
-    "uptimeDay": "83.37%",
-    "uptimeWeek": "85.69%",
-    "uptimeMonth": "88.68%",
+    "status": "up",
+    "uptime": "77.46%",
+    "uptimeDay": "73.62%",
+    "uptimeWeek": "85.44%",
+    "uptimeMonth": "87.82%",
     "uptimeYear": "43.98%",
-    "time": 1705,
-    "timeDay": 1733,
-    "timeWeek": 1718,
-    "timeMonth": 1721,
+    "time": 1706,
+    "timeDay": 1706,
+    "timeWeek": 1712,
+    "timeMonth": 1722,
     "timeYear": 1723,
     "dailyMinutesDown": {
-      "2024-06-07": 1,
+      "2024-06-08": 65,
+      "2024-06-07": 315,
       "2024-06-06": 275,
       "2024-06-05": 404,
       "2024-06-04": 329,
@@ -730,8 +731,7 @@
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -751,7 +751,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-07": 1126,
+      "2024-06-08": 66,
+      "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -1114,8 +1115,7 @@
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   },
   {
@@ -1130,12 +1130,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 679,
-    "timeDay": 596,
-    "timeWeek": 510,
+    "timeDay": 536,
+    "timeWeek": 513,
     "timeMonth": 574,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2024-06-07": 1126,
+      "2024-06-08": 66,
+      "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
@@ -1498,8 +1499,7 @@
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
-      "2023-06-10": 1440,
-      "2023-06-09": 1440
+      "2023-06-10": 1440
     }
   }
 ]
