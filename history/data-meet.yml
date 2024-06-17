@@ -1,7 +1,7 @@
 url: http://datameet.org/
-status: down
-code: 503
-responseTime: 3640
-lastUpdated: 2024-06-17T07:15:10.494Z
+status: up
+code: 200
+responseTime: 866
+lastUpdated: 2024-06-17T07:24:30.601Z
 startTime: 2020-12-28T23:58:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
