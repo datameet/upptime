@@ -11,10 +11,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.83%",
     "time": 1420,
-    "timeDay": 956,
-    "timeWeek": 2040,
-    "timeMonth": 1704,
-    "timeYear": 1404,
+    "timeDay": 1071,
+    "timeWeek": 2050,
+    "timeMonth": 1692,
+    "timeYear": 1403,
     "dailyMinutesDown": {
       "2024-07-07": 20,
       "2024-06-23": 39,
@@ -36,18 +36,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "65.07%",
+    "uptime": "65.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2914,
+    "time": 2824,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-19": 76,
+      "2024-07-20": 74,
+      "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -410,8 +411,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   },
   {
@@ -426,9 +426,9 @@
     "uptimeMonth": "98.20%",
     "uptimeYear": "99.66%",
     "time": 3606,
-    "timeDay": 2819,
+    "timeDay": 2826,
     "timeWeek": 2626,
-    "timeMonth": 2857,
+    "timeMonth": 2859,
     "timeYear": 3784,
     "dailyMinutesDown": {
       "2024-07-14": 60,
@@ -459,16 +459,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
     "status": "up",
-    "uptime": "78.00%",
+    "uptime": "78.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.15%",
     "uptimeMonth": "93.77%",
-    "uptimeYear": "54.62%",
+    "uptimeYear": "54.89%",
     "time": 1714,
-    "timeDay": 1707,
-    "timeWeek": 1694,
-    "timeMonth": 1700,
-    "timeYear": 1723,
+    "timeDay": 1695,
+    "timeWeek": 1691,
+    "timeMonth": 1699,
+    "timeYear": 1722,
     "dailyMinutesDown": {
       "2024-07-16": 298,
       "2024-07-15": 168,
@@ -710,8 +710,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   },
   {
@@ -720,7 +719,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "10.03%",
+    "uptime": "10.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -731,7 +730,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-19": 76,
+      "2024-07-20": 74,
+      "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -1094,8 +1094,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   },
   {
@@ -1110,12 +1109,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 682,
-    "timeDay": 547,
+    "timeDay": 0,
     "timeWeek": 560,
-    "timeMonth": 714,
+    "timeMonth": 719,
     "timeYear": 644,
     "dailyMinutesDown": {
-      "2024-07-19": 76,
+      "2024-07-20": 74,
+      "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -1478,8 +1478,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   }
 ]
