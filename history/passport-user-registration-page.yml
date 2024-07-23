@@ -1,7 +1,7 @@
 url: https://portal2.passportindia.gov.in/AppOnlineProject/user/RegistrationBaseAction?request_locale=en
-status: up
-code: 200
-responseTime: 2637
-lastUpdated: 2024-07-22T23:10:22.047Z
+status: down
+code: 500
+responseTime: 1633
+lastUpdated: 2024-07-23T14:39:43.702Z
 startTime: 2021-01-04T12:29:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
