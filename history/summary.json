@@ -47,7 +47,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 441,
+      "2024-09-09": 467,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -422,8 +422,8 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.94%",
-    "uptimeMonth": "85.56%",
+    "uptimeWeek": "84.20%",
+    "uptimeMonth": "85.59%",
     "uptimeYear": "98.34%",
     "time": 3973,
     "timeDay": 2691,
@@ -473,19 +473,19 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "92.14%",
-    "uptimeWeek": "93.90%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "93.89%",
     "uptimeMonth": "95.89%",
-    "uptimeYear": "95.39%",
+    "uptimeYear": "95.41%",
     "time": 1709,
     "timeDay": 1616,
     "timeWeek": 1620,
     "timeMonth": 1641,
     "timeYear": 1704,
     "dailyMinutesDown": {
-      "2024-09-09": 36,
+      "2024-09-09": 37,
       "2024-09-08": 77,
       "2024-09-06": 124,
       "2024-09-05": 327,
@@ -592,8 +592,7 @@
       "2024-01-05": 285,
       "2024-01-04": 63,
       "2024-01-03": 134,
-      "2024-01-02": 328,
-      "2023-12-31": 55
+      "2024-01-02": 328
     }
   },
   {
@@ -613,7 +612,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-09": 441,
+      "2024-09-09": 467,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -997,7 +996,7 @@
     "timeMonth": 521,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2024-09-09": 441,
+      "2024-09-09": 467,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
