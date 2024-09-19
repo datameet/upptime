@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.83%",
-    "time": 1437,
-    "timeDay": 507,
-    "timeWeek": 446,
-    "timeMonth": 1210,
-    "timeYear": 1426,
+    "time": 1435,
+    "timeDay": 401,
+    "timeWeek": 436,
+    "timeMonth": 1196,
+    "timeYear": 1424,
     "dailyMinutesDown": {
       "2024-08-28": 16,
       "2024-07-07": 20,
@@ -36,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "62.15%",
+    "uptime": "62.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -47,7 +47,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 82,
+      "2024-09-19": 83,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -410,8 +411,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   },
   {
@@ -425,11 +425,11 @@
     "uptimeWeek": "97.88%",
     "uptimeMonth": "85.66%",
     "uptimeYear": "98.30%",
-    "time": 3976,
-    "timeDay": 2886,
-    "timeWeek": 2811,
-    "timeMonth": 7546,
-    "timeYear": 4270,
+    "time": 3977,
+    "timeDay": 3187,
+    "timeWeek": 2827,
+    "timeMonth": 7556,
+    "timeYear": 4271,
     "dailyMinutesDown": {
       "2024-09-14": 213,
       "2024-09-07": 197,
@@ -481,9 +481,9 @@
     "uptimeMonth": "94.99%",
     "uptimeYear": "95.42%",
     "time": 1709,
-    "timeDay": 1732,
-    "timeWeek": 1641,
-    "timeMonth": 1647,
+    "timeDay": 1690,
+    "timeWeek": 1654,
+    "timeMonth": 1648,
     "timeYear": 1703,
     "dailyMinutesDown": {
       "2024-09-15": 117,
@@ -602,7 +602,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "9.58%",
+    "uptime": "9.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -613,7 +613,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 82,
+      "2024-09-19": 84,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -976,8 +977,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   },
   {
@@ -991,13 +991,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 671,
-    "timeDay": 532,
-    "timeWeek": 526,
-    "timeMonth": 509,
-    "timeYear": 612,
+    "time": 670,
+    "timeDay": 560,
+    "timeWeek": 531,
+    "timeMonth": 502,
+    "timeYear": 610,
     "dailyMinutesDown": {
-      "2024-09-18": 82,
+      "2024-09-19": 84,
+      "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
@@ -1360,8 +1361,7 @@
       "2023-09-24": 1440,
       "2023-09-23": 1440,
       "2023-09-22": 1440,
-      "2023-09-21": 1440,
-      "2023-09-20": 1440
+      "2023-09-21": 1440
     }
   }
 ]
