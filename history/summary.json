@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 1414,
-    "timeDay": 822,
-    "timeWeek": 507,
-    "timeMonth": 455,
-    "timeYear": 1405,
+    "time": 1413,
+    "timeDay": 612,
+    "timeWeek": 513,
+    "timeMonth": 460,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-08-28": 16,
       "2024-07-07": 20,
@@ -26,8 +26,7 @@
       "2024-04-26": 16,
       "2024-03-15": 26,
       "2023-11-19": 122,
-      "2023-11-18": 85,
-      "2023-10-06": 16
+      "2023-11-18": 85
     }
   },
   {
@@ -36,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "61.39%",
+    "uptime": "61.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -47,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-04": 1121,
+      "2024-10-05": 47,
+      "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -410,8 +410,7 @@
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
-      "2023-10-07": 1440,
-      "2023-10-06": 1440
+      "2023-10-07": 1440
     }
   },
   {
@@ -420,18 +419,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "83.31%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "97.69%",
-    "time": 4075,
-    "timeDay": 2693,
-    "timeWeek": 5582,
-    "timeMonth": 4404,
-    "timeYear": 4385,
+    "uptime": "99.23%",
+    "uptimeDay": "57.91%",
+    "uptimeWeek": "92.03%",
+    "uptimeMonth": "90.83%",
+    "uptimeYear": "97.62%",
+    "time": 4078,
+    "timeDay": 0,
+    "timeWeek": 5888,
+    "timeMonth": 4478,
+    "timeYear": 4389,
     "dailyMinutesDown": {
-      "2024-10-04": 240,
+      "2024-10-05": 47,
+      "2024-10-04": 559,
       "2024-09-28": 198,
       "2024-09-22": 772,
       "2024-09-21": 1440,
@@ -479,19 +479,20 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "93.62%",
-    "uptimeMonth": "94.40%",
-    "uptimeYear": "95.42%",
+    "status": "up",
+    "uptime": "98.76%",
+    "uptimeDay": "74.59%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "95.35%",
     "time": 1711,
-    "timeDay": 1680,
-    "timeWeek": 1672,
-    "timeMonth": 1657,
+    "timeDay": 1715,
+    "timeWeek": 1676,
+    "timeMonth": 1658,
     "timeYear": 1700,
     "dailyMinutesDown": {
-      "2024-10-04": 1,
+      "2024-10-05": 47,
+      "2024-10-04": 319,
       "2024-10-03": 60,
       "2024-09-29": 189,
       "2024-09-28": 225,
@@ -620,7 +621,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-04": 1122,
+      "2024-10-05": 47,
+      "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -983,8 +985,7 @@
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
-      "2023-10-07": 1440,
-      "2023-10-06": 1440
+      "2023-10-07": 1440
     }
   },
   {
@@ -998,13 +999,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 640,
-    "timeDay": 525,
-    "timeWeek": 633,
-    "timeMonth": 534,
-    "timeYear": 607,
+    "time": 639,
+    "timeDay": 355,
+    "timeWeek": 610,
+    "timeMonth": 521,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-10-04": 1122,
+      "2024-10-05": 48,
+      "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -1367,8 +1369,7 @@
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
-      "2023-10-07": 1440,
-      "2023-10-06": 1440
+      "2023-10-07": 1440
     }
   }
 ]
