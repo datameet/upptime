@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.86%",
-    "time": 1256,
-    "timeDay": 477,
-    "timeWeek": 454,
-    "timeMonth": 456,
+    "time": 1255,
+    "timeDay": 640,
+    "timeWeek": 490,
+    "timeMonth": 461,
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2024-11-19": 39,
@@ -35,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "58.49%",
+    "uptime": "58.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -46,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-12": 101,
+      "2024-12-13": 103,
+      "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -409,8 +410,7 @@
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
-      "2023-12-15": 1440,
-      "2023-12-14": 1440
+      "2023-12-15": 1440
     }
   },
   {
@@ -425,10 +425,10 @@
     "uptimeMonth": "98.68%",
     "uptimeYear": "96.66%",
     "time": 4246,
-    "timeDay": 2682,
-    "timeWeek": 2975,
-    "timeMonth": 3121,
-    "timeYear": 4346,
+    "timeDay": 2878,
+    "timeWeek": 2962,
+    "timeMonth": 3122,
+    "timeYear": 4345,
     "dailyMinutesDown": {
       "2024-12-07": 131,
       "2024-11-30": 117,
@@ -488,14 +488,14 @@
     "slug": "gst-login-page",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "85.20%",
-    "uptimeWeek": "88.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.48%",
     "uptimeMonth": "93.49%",
     "uptimeYear": "95.51%",
     "time": 1707,
-    "timeDay": 1750,
-    "timeWeek": 1725,
-    "timeMonth": 1713,
+    "timeDay": 1676,
+    "timeWeek": 1714,
+    "timeMonth": 1715,
     "timeYear": 1701,
     "dailyMinutesDown": {
       "2024-12-11": 213,
@@ -619,7 +619,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "9.01%",
+    "uptime": "9.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -630,7 +630,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-12": 102,
+      "2024-12-13": 103,
+      "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -993,8 +994,7 @@
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
-      "2023-12-15": 1440,
-      "2023-12-14": 1440
+      "2023-12-15": 1440
     }
   },
   {
@@ -1009,12 +1009,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 622,
-    "timeDay": 531,
-    "timeWeek": 602,
+    "timeDay": 518,
+    "timeWeek": 598,
     "timeMonth": 564,
-    "timeYear": 607,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-12-12": 102,
+      "2024-12-13": 103,
+      "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
@@ -1377,8 +1378,7 @@
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
-      "2023-12-15": 1440,
-      "2023-12-14": 1440
+      "2023-12-15": 1440
     }
   }
 ]
