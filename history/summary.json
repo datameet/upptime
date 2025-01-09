@@ -35,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "57.38%",
+    "uptime": "57.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -46,7 +46,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-09": 86,
+      "2025-01-09": 1053,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -489,18 +489,19 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "92.78%",
     "uptimeMonth": "93.46%",
-    "uptimeYear": "95.31%",
+    "uptimeYear": "95.39%",
     "time": 1704,
-    "timeDay": 1622,
-    "timeWeek": 1640,
-    "timeMonth": 1710,
-    "timeYear": 1706,
+    "timeDay": 1582,
+    "timeWeek": 1632,
+    "timeMonth": 1707,
+    "timeYear": 1705,
     "dailyMinutesDown": {
+      "2025-01-09": 1,
       "2025-01-07": 138,
       "2025-01-06": 319,
       "2025-01-03": 270,
@@ -615,8 +616,7 @@
       "2024-05-01": 69,
       "2024-04-30": 240,
       "2024-04-28": 29,
-      "2024-04-27": 413,
-      "2024-04-26": 326
+      "2024-04-27": 321
     }
   },
   {
@@ -636,7 +636,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-09": 86,
+      "2025-01-09": 1053,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -1020,7 +1020,7 @@
     "timeMonth": 588,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-01-09": 86,
+      "2025-01-09": 1053,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
