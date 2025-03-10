@@ -11,10 +11,10 @@
     "uptimeMonth": "91.95%",
     "uptimeYear": "99.19%",
     "time": 1131,
-    "timeDay": 663,
-    "timeWeek": 474,
-    "timeMonth": 462,
-    "timeYear": 1161,
+    "timeDay": 557,
+    "timeWeek": 467,
+    "timeMonth": 463,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2025-03-03": 20,
       "2025-02-28": 18,
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "55.16%",
+    "uptime": "55.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-09": 162,
+      "2025-03-10": 76,
+      "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -415,8 +416,7 @@
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
-      "2024-03-11": 1440,
-      "2024-03-10": 1440
+      "2024-03-11": 1440
     }
   },
   {
@@ -426,13 +426,13 @@
     "slug": "passport-user-registration-page",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "63.37%",
-    "uptimeWeek": "89.64%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "89.69%",
     "uptimeMonth": "93.28%",
     "uptimeYear": "95.57%",
     "time": 4374,
-    "timeDay": 2674,
-    "timeWeek": 4296,
+    "timeDay": 2683,
+    "timeWeek": 4384,
     "timeMonth": 4073,
     "timeYear": 4595,
     "dailyMinutesDown": {
@@ -524,12 +524,12 @@
     "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.20%",
-    "uptimeMonth": "94.99%",
+    "uptimeMonth": "95.25%",
     "uptimeYear": "95.63%",
-    "time": 1689,
-    "timeDay": 1649,
-    "timeWeek": 1635,
-    "timeMonth": 1596,
+    "time": 1688,
+    "timeDay": 1540,
+    "timeWeek": 1611,
+    "timeMonth": 1597,
     "timeYear": 1688,
     "dailyMinutesDown": {
       "2025-03-06": 167,
@@ -653,7 +653,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "8.49%",
+    "uptime": "8.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -664,7 +664,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-09": 162,
+      "2025-03-10": 76,
+      "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -1027,8 +1028,7 @@
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
-      "2024-03-11": 1440,
-      "2024-03-10": 1440
+      "2024-03-11": 1440
     }
   },
   {
@@ -1043,12 +1043,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 605,
-    "timeDay": 572,
-    "timeWeek": 548,
-    "timeMonth": 579,
-    "timeYear": 607,
+    "timeDay": 542,
+    "timeWeek": 547,
+    "timeMonth": 574,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-03-09": 162,
+      "2025-03-10": 76,
+      "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -1411,8 +1412,7 @@
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
-      "2024-03-11": 1440,
-      "2024-03-10": 1440
+      "2024-03-11": 1440
     }
   }
 ]
