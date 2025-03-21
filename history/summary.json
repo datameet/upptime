@@ -11,10 +11,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.19%",
     "time": 1111,
-    "timeDay": 349,
-    "timeWeek": 474,
-    "timeMonth": 463,
-    "timeYear": 1145,
+    "timeDay": 356,
+    "timeWeek": 470,
+    "timeMonth": 462,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-03-20": 18,
       "2025-03-03": 20,
@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "54.76%",
+    "uptime": "54.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 408,
+      "2025-03-21": 100,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -415,8 +416,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -426,15 +426,15 @@
     "slug": "passport-user-registration-page",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "94.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "93.92%",
     "uptimeYear": "95.48%",
     "time": 4303,
-    "timeDay": 2795,
-    "timeWeek": 3543,
-    "timeMonth": 3494,
-    "timeYear": 4564,
+    "timeDay": 2968,
+    "timeWeek": 3571,
+    "timeMonth": 3504,
+    "timeYear": 4566,
     "dailyMinutesDown": {
       "2025-03-19": 75,
       "2025-03-17": 90,
@@ -532,9 +532,9 @@
     "uptimeMonth": "96.14%",
     "uptimeYear": "95.65%",
     "time": 1688,
-    "timeDay": 1529,
-    "timeWeek": 1550,
-    "timeMonth": 1600,
+    "timeDay": 1760,
+    "timeWeek": 1574,
+    "timeMonth": 1603,
     "timeYear": 1683,
     "dailyMinutesDown": {
       "2025-03-14": 109,
@@ -658,7 +658,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "8.43%",
+    "uptime": "8.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -669,7 +669,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-20": 408,
+      "2025-03-21": 100,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1032,8 +1033,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   },
   {
@@ -1048,12 +1048,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 604,
-    "timeDay": 552,
-    "timeWeek": 584,
-    "timeMonth": 613,
+    "timeDay": 668,
+    "timeWeek": 567,
+    "timeMonth": 610,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-03-20": 408,
+      "2025-03-21": 100,
+      "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1416,8 +1417,7 @@
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
-      "2024-03-22": 1440,
-      "2024-03-21": 1440
+      "2024-03-22": 1440
     }
   }
 ]
