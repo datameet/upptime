@@ -14,7 +14,7 @@
     "timeDay": 528,
     "timeWeek": 484,
     "timeMonth": 414,
-    "timeYear": 1031,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2025-04-20": 16,
       "2025-04-11": 24,
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "53.52%",
+    "uptime": "53.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 105,
+      "2025-04-25": 1129,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -541,18 +541,19 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "95.62%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.00%",
+    "uptimeYear": "95.67%",
     "time": 1688,
     "timeDay": 1508,
     "timeWeek": 1628,
-    "timeMonth": 1665,
-    "timeYear": 1674,
+    "timeMonth": 1668,
+    "timeYear": 1673,
     "dailyMinutesDown": {
+      "2025-04-25": 1,
       "2025-04-04": 189,
       "2025-04-03": 45,
       "2025-04-01": 104,
@@ -665,8 +666,7 @@
       "2024-07-15": 168,
       "2024-07-14": 223,
       "2024-07-05": 311,
-      "2024-07-04": 329,
-      "2024-07-03": 260
+      "2024-07-04": 329
     }
   },
   {
@@ -686,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-25": 105,
+      "2025-04-25": 1129,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -1070,7 +1070,7 @@
     "timeMonth": 646,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-04-25": 105,
+      "2025-04-25": 1129,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
