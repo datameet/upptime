@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "91.39%",
+    "uptime": "91.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.97%",
-    "time": 972,
+    "uptimeYear": "68.69%",
+    "time": 971,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 461,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-08-31": 107,
+      "2025-09-01": 116,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -152,7 +153,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "49.51%",
+    "uptime": "49.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -163,7 +164,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 107,
+      "2025-09-01": 116,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -526,8 +528,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -538,14 +539,14 @@
     "status": "up",
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "92.47%",
-    "time": 4146,
-    "timeDay": 3768,
-    "timeWeek": 3054,
-    "timeMonth": 3186,
-    "timeYear": 4364,
+    "uptimeYear": "92.75%",
+    "time": 4122,
+    "timeDay": 3166,
+    "timeWeek": 3097,
+    "timeMonth": 3187,
+    "timeYear": 4361,
     "dailyMinutesDown": {
       "2025-08-24": 108,
       "2025-08-23": 84,
@@ -643,8 +644,7 @@
       "2024-09-05": 34,
       "2024-09-04": 829,
       "2024-09-03": 360,
-      "2024-09-02": 271,
-      "2024-09-01": 737
+      "2024-09-02": 271
     }
   },
   {
@@ -653,15 +653,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.69%",
     "uptimeMonth": "94.73%",
     "uptimeYear": "95.51%",
     "time": 1662,
-    "timeDay": 1814,
-    "timeWeek": 1664,
-    "timeMonth": 1657,
+    "timeDay": 1653,
+    "timeWeek": 1656,
+    "timeMonth": 1658,
     "timeYear": 1654,
     "dailyMinutesDown": {
       "2025-08-29": 256,
@@ -794,7 +794,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-31": 107,
+      "2025-09-01": 117,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -1157,8 +1158,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   },
   {
@@ -1178,7 +1178,8 @@
     "timeMonth": 0,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2025-08-31": 107,
+      "2025-09-01": 117,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
@@ -1541,8 +1542,7 @@
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
-      "2024-09-02": 1440,
-      "2024-09-01": 1440
+      "2024-09-02": 1440
     }
   }
 ]
