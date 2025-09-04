@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-09-04": 713,
+      "2025-09-04": 721,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 713,
+      "2025-09-04": 721,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -539,10 +539,10 @@
     "url": "https://portal2.passportindia.gov.in/AppOnlineProject/user/RegistrationBaseAction?request_locale=en",
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "98.72%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "93.02%",
     "time": 4131,
@@ -551,7 +551,7 @@
     "timeMonth": 3306,
     "timeYear": 3825,
     "dailyMinutesDown": {
-      "2025-09-04": 129,
+      "2025-09-04": 130,
       "2025-08-24": 108,
       "2025-08-23": 84,
       "2025-07-03": 853,
@@ -794,7 +794,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-04": 713,
+      "2025-09-04": 722,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
@@ -1178,7 +1178,7 @@
     "timeMonth": 333,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2025-09-04": 713,
+      "2025-09-04": 722,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
