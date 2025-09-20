@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "90.38%",
+    "uptime": "90.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.76%",
+    "uptimeYear": "63.49%",
     "time": 903,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-09-19": 100,
+      "2025-09-20": 95,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -171,7 +172,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "48.96%",
+    "uptime": "48.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -182,7 +183,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-19": 100,
+      "2025-09-20": 96,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -545,8 +547,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   },
   {
@@ -555,16 +556,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "93.17%",
-    "time": 4137,
-    "timeDay": 3391,
-    "timeWeek": 3192,
-    "timeMonth": 3676,
-    "timeYear": 3872,
+    "time": 4138,
+    "timeDay": 2907,
+    "timeWeek": 3177,
+    "timeMonth": 3672,
+    "timeYear": 3871,
     "dailyMinutesDown": {
       "2025-09-11": 96,
       "2025-09-04": 226,
@@ -657,8 +658,7 @@
       "2024-10-04": 559,
       "2024-09-28": 198,
       "2024-09-22": 772,
-      "2024-09-21": 1440,
-      "2024-09-20": 558
+      "2024-09-21": 1440
     }
   },
   {
@@ -673,9 +673,9 @@
     "uptimeMonth": "95.73%",
     "uptimeYear": "95.52%",
     "time": 1664,
-    "timeDay": 1804,
-    "timeWeek": 1760,
-    "timeMonth": 1720,
+    "timeDay": 1796,
+    "timeWeek": 1754,
+    "timeMonth": 1721,
     "timeYear": 1659,
     "dailyMinutesDown": {
       "2025-09-15": 107,
@@ -796,7 +796,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "7.53%",
+    "uptime": "7.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -807,7 +807,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-19": 100,
+      "2025-09-20": 96,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -1170,8 +1171,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   },
   {
@@ -1186,12 +1186,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 608,
-    "timeDay": 908,
-    "timeWeek": 674,
-    "timeMonth": 665,
+    "timeDay": 627,
+    "timeWeek": 676,
+    "timeMonth": 663,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-09-19": 100,
+      "2025-09-20": 96,
+      "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
@@ -1554,8 +1555,7 @@
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
-      "2024-09-21": 1440,
-      "2024-09-20": 1440
+      "2024-09-21": 1440
     }
   }
 ]
