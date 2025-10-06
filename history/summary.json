@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "89.55%",
+    "uptime": "89.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.38%",
-    "time": 868,
+    "uptimeYear": "59.10%",
+    "time": 867,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-10-05": 107,
+      "2025-10-06": 100,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -187,7 +188,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "48.51%",
+    "uptime": "48.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -198,7 +199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-05": 107,
+      "2025-10-06": 101,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -561,8 +563,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -575,12 +576,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "93.85%",
-    "time": 4175,
-    "timeDay": 2880,
-    "timeWeek": 4067,
-    "timeMonth": 3884,
-    "timeYear": 3774,
+    "uptimeYear": "94.12%",
+    "time": 4178,
+    "timeDay": 3927,
+    "timeWeek": 4109,
+    "timeMonth": 3906,
+    "timeYear": 3775,
     "dailyMinutesDown": {
       "2025-10-01": 36,
       "2025-09-11": 96,
@@ -668,8 +669,7 @@
       "2024-10-19": 661,
       "2024-10-12": 203,
       "2024-10-11": 17,
-      "2024-10-07": 58,
-      "2024-10-06": 696
+      "2024-10-07": 58
     }
   },
   {
@@ -679,15 +679,15 @@
     "slug": "gst-login-page",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "81.28%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "87.24%",
     "uptimeMonth": "93.89%",
     "uptimeYear": "95.45%",
     "time": 1670,
-    "timeDay": 1917,
-    "timeWeek": 1855,
-    "timeMonth": 1860,
-    "timeYear": 1669,
+    "timeDay": 1908,
+    "timeWeek": 1863,
+    "timeMonth": 1862,
+    "timeYear": 1670,
     "dailyMinutesDown": {
       "2025-10-04": 270,
       "2025-10-03": 303,
@@ -807,7 +807,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "7.46%",
+    "uptime": "7.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -818,7 +818,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-05": 107,
+      "2025-10-06": 101,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -1181,8 +1182,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -1196,13 +1196,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 620,
-    "timeDay": 383,
-    "timeWeek": 1144,
-    "timeMonth": 810,
+    "time": 621,
+    "timeDay": 755,
+    "timeWeek": 1158,
+    "timeMonth": 805,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-10-05": 107,
+      "2025-10-06": 101,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -1565,8 +1566,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   }
 ]
