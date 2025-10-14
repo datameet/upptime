@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "89.14%",
+    "uptime": "89.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "57.18%",
-    "time": 810,
+    "uptimeYear": "56.91%",
+    "time": 809,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-10-13": 106,
+      "2025-10-14": 100,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -195,7 +196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "48.29%",
+    "uptime": "48.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -206,7 +207,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-13": 106,
+      "2025-10-14": 100,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -569,8 +571,7 @@
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440
+      "2024-10-15": 1440
     }
   },
   {
@@ -584,11 +585,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "94.29%",
-    "time": 4187,
-    "timeDay": 2952,
-    "timeWeek": 3381,
-    "timeMonth": 3605,
-    "timeYear": 3660,
+    "time": 4189,
+    "timeDay": 3912,
+    "timeWeek": 3563,
+    "timeMonth": 3629,
+    "timeYear": 3662,
     "dailyMinutesDown": {
       "2025-10-01": 36,
       "2025-09-11": 96,
@@ -684,13 +685,13 @@
     "status": "up",
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.68%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "95.72%",
     "time": 1671,
-    "timeDay": 1800,
-    "timeWeek": 1727,
-    "timeMonth": 1809,
+    "timeDay": 1922,
+    "timeWeek": 1731,
+    "timeMonth": 1814,
     "timeYear": 1671,
     "dailyMinutesDown": {
       "2025-10-07": 126,
@@ -817,7 +818,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-13": 106,
+      "2025-10-14": 100,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -1180,8 +1182,7 @@
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440
+      "2024-10-15": 1440
     }
   },
   {
@@ -1196,12 +1197,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 621,
-    "timeDay": 532,
-    "timeWeek": 626,
-    "timeMonth": 786,
+    "timeDay": 713,
+    "timeWeek": 637,
+    "timeMonth": 792,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-10-13": 106,
+      "2025-10-14": 100,
+      "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
@@ -1564,8 +1566,7 @@
       "2024-10-18": 1440,
       "2024-10-17": 1440,
       "2024-10-16": 1440,
-      "2024-10-15": 1440,
-      "2024-10-14": 1440
+      "2024-10-15": 1440
     }
   }
 ]
