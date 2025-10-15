@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "89.06%",
+    "uptime": "89.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.72%",
+    "uptimeYear": "56.64%",
     "time": 809,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-10-14": 1125,
+      "2025-10-15": 66,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -186,8 +187,7 @@
       "2025-02-19": 690,
       "2025-02-18": 1440,
       "2025-02-17": 1345,
-      "2024-11-19": 39,
-      "2024-10-15": 18
+      "2024-11-19": 39
     }
   },
   {
@@ -196,7 +196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "48.24%",
+    "uptime": "48.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -207,7 +207,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-14": 1125,
+      "2025-10-15": 66,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -570,8 +571,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -585,11 +585,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "94.29%",
-    "time": 4189,
-    "timeDay": 3912,
-    "timeWeek": 3563,
-    "timeMonth": 3629,
-    "timeYear": 3662,
+    "time": 4191,
+    "timeDay": 3747,
+    "timeWeek": 3569,
+    "timeMonth": 3654,
+    "timeYear": 3652,
     "dailyMinutesDown": {
       "2025-10-01": 36,
       "2025-09-11": 96,
@@ -682,19 +682,20 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "93.12%",
-    "uptimeYear": "95.77%",
-    "time": 1671,
-    "timeDay": 1861,
-    "timeWeek": 1874,
-    "timeMonth": 1814,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "73.53%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "95.70%",
+    "time": 1672,
+    "timeDay": 1817,
+    "timeWeek": 1867,
+    "timeMonth": 1817,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2025-10-14": 1,
+      "2025-10-15": 66,
+      "2025-10-14": 315,
       "2025-10-07": 126,
       "2025-10-06": 208,
       "2025-10-04": 270,
@@ -807,7 +808,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "7.42%",
+    "uptime": "7.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -818,7 +819,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-14": 1125,
+      "2025-10-15": 67,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1181,8 +1183,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   },
   {
@@ -1197,12 +1198,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 621,
-    "timeDay": 713,
-    "timeWeek": 637,
-    "timeMonth": 792,
-    "timeYear": 633,
+    "timeDay": 683,
+    "timeWeek": 640,
+    "timeMonth": 793,
+    "timeYear": 634,
     "dailyMinutesDown": {
-      "2025-10-14": 1126,
+      "2025-10-15": 67,
+      "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
       "2025-10-11": 1440,
@@ -1565,8 +1567,7 @@
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
-      "2024-10-16": 1440,
-      "2024-10-15": 1440
+      "2024-10-16": 1440
     }
   }
 ]
