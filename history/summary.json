@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "88.49%",
+    "uptime": "88.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.63%",
+    "uptimeYear": "53.35%",
     "time": 768,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 462,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-10-26": 108,
+      "2025-10-27": 112,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -207,7 +208,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "47.93%",
+    "uptime": "47.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -218,7 +219,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 108,
+      "2025-10-27": 112,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -581,8 +583,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -595,12 +596,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "94.67%",
-    "time": 4197,
-    "timeDay": 3334,
-    "timeWeek": 3185,
-    "timeMonth": 3620,
-    "timeYear": 3596,
+    "uptimeYear": "94.72%",
+    "time": 4198,
+    "timeDay": 2829,
+    "timeWeek": 3129,
+    "timeMonth": 3595,
+    "timeYear": 3595,
     "dailyMinutesDown": {
       "2025-10-01": 36,
       "2025-09-11": 96,
@@ -679,8 +680,7 @@
       "2024-12-07": 131,
       "2024-11-30": 117,
       "2024-11-23": 145,
-      "2024-11-15": 184,
-      "2024-10-27": 587
+      "2024-11-15": 184
     }
   },
   {
@@ -692,12 +692,12 @@
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.79%",
+    "uptimeMonth": "94.77%",
     "uptimeYear": "95.73%",
     "time": 1674,
-    "timeDay": 1724,
-    "timeWeek": 1761,
-    "timeMonth": 1813,
+    "timeDay": 1762,
+    "timeWeek": 1767,
+    "timeMonth": 1805,
     "timeYear": 1676,
     "dailyMinutesDown": {
       "2025-10-16": 24,
@@ -813,7 +813,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "7.37%",
+    "uptime": "7.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -824,7 +824,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-26": 109,
+      "2025-10-27": 113,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1187,8 +1188,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   },
   {
@@ -1197,18 +1197,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/selfregistration.cowin.gov.in.ico",
     "slug": "co-win-self-registration",
     "status": "down",
-    "uptime": "0.06%",
+    "uptime": "0.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 634,
-    "timeDay": 704,
-    "timeWeek": 1294,
-    "timeMonth": 923,
-    "timeYear": 649,
+    "time": 635,
+    "timeDay": 938,
+    "timeWeek": 706,
+    "timeMonth": 929,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2025-10-26": 109,
+      "2025-10-27": 113,
+      "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
@@ -1571,8 +1572,7 @@
       "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
-      "2024-10-28": 1440,
-      "2024-10-27": 1440
+      "2024-10-28": 1440
     }
   }
 ]
