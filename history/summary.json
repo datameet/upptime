@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-11-06": 1162,
+      "2025-11-06": 1197,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -218,7 +218,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "47.62%",
+    "uptime": "47.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 1162,
+      "2025-11-06": 1197,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -698,19 +698,19 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "98.61%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "98.56%",
     "uptimeWeek": "86.12%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "95.80%",
+    "uptimeMonth": "93.03%",
+    "uptimeYear": "95.87%",
     "time": 1675,
-    "timeDay": 1699,
+    "timeDay": 1713,
     "timeWeek": 1752,
     "timeMonth": 1764,
     "timeYear": 1680,
     "dailyMinutesDown": {
-      "2025-11-06": 20,
+      "2025-11-06": 21,
       "2025-11-04": 352,
       "2025-11-03": 319,
       "2025-11-01": 427,
@@ -813,8 +813,7 @@
       "2025-02-09": 115,
       "2025-02-07": 260,
       "2025-02-06": 72,
-      "2025-02-05": 360,
-      "2025-02-04": 318
+      "2025-02-05": 320
     }
   },
   {
@@ -834,7 +833,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 1162,
+      "2025-11-06": 1197,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -1218,7 +1217,7 @@
     "timeMonth": 783,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2025-11-06": 1162,
+      "2025-11-06": 1197,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
