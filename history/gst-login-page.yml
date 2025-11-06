@@ -1,7 +1,7 @@
 url: https://services.gst.gov.in/services/login
-status: up
-code: 200
-responseTime: 1744
-lastUpdated: 2025-11-06T19:21:03.055Z
+status: down
+code: 503
+responseTime: 1755
+lastUpdated: 2025-11-06T19:56:29.299Z
 startTime: 2021-01-04T12:29:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
