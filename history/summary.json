@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "86.19%",
+    "uptime": "86.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "40.76%",
+    "uptimeYear": "40.48%",
     "time": 648,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-12-12": 114,
+      "2025-12-13": 108,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -253,7 +254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "46.69%",
+    "uptime": "46.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -264,7 +265,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 114,
+      "2025-12-13": 108,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -627,8 +629,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -637,18 +638,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "97.84%",
+    "uptime": "97.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.18%",
-    "uptimeYear": "92.52%",
-    "time": 3670,
-    "timeDay": 2008,
-    "timeWeek": 2577,
-    "timeMonth": 2824,
-    "timeYear": 3536,
+    "uptimeMonth": "67.91%",
+    "uptimeYear": "92.24%",
+    "time": 3667,
+    "timeDay": 2241,
+    "timeWeek": 2638,
+    "timeMonth": 2786,
+    "timeYear": 3534,
     "dailyMinutesDown": {
-      "2025-12-12": 114,
+      "2025-12-13": 108,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -731,8 +733,7 @@
       "2025-01-11": 375,
       "2025-01-04": 149,
       "2024-12-21": 285,
-      "2024-12-14": 175,
-      "2024-12-13": 222
+      "2024-12-14": 175
     }
   },
   {
@@ -743,13 +744,13 @@
     "status": "up",
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.80%",
+    "uptimeWeek": "97.97%",
     "uptimeMonth": "92.83%",
     "uptimeYear": "95.60%",
     "time": 1680,
-    "timeDay": 1548,
-    "timeWeek": 1676,
-    "timeMonth": 1708,
+    "timeDay": 1734,
+    "timeWeek": 1679,
+    "timeMonth": 1704,
     "timeYear": 1681,
     "dailyMinutesDown": {
       "2025-12-06": 205,
@@ -866,7 +867,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "7.18%",
+    "uptime": "7.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -877,7 +878,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 114,
+      "2025-12-13": 108,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -1240,8 +1242,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -1255,13 +1256,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 629,
-    "timeDay": 0,
-    "timeWeek": 649,
+    "time": 630,
+    "timeDay": 603,
+    "timeWeek": 656,
     "timeMonth": 615,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2025-12-12": 114,
+      "2025-12-13": 108,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -1624,8 +1626,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   }
 ]
