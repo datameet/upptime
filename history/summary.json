@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "82.84%",
+    "uptime": "82.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.41%",
+    "uptimeYear": "21.16%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 443,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2026-02-23": 152,
+      "2026-02-24": 3,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -323,7 +324,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "44.88%",
+    "uptime": "44.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -334,7 +335,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-23": 152,
+      "2026-02-24": 3,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -697,8 +699,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   },
   {
@@ -707,18 +708,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "94.03%",
+    "uptime": "93.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.25%",
+    "uptimeYear": "73.00%",
     "time": 3480,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3328,
     "dailyMinutesDown": {
-      "2026-02-23": 152,
+      "2026-02-24": 3,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -865,18 +867,19 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "96.58%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.93%",
+    "uptimeMonth": "91.24%",
+    "uptimeYear": "96.63%",
     "time": 1684,
-    "timeDay": 1022,
-    "timeWeek": 1714,
-    "timeMonth": 1728,
+    "timeDay": 1715,
+    "timeWeek": 1691,
+    "timeMonth": 1730,
     "timeYear": 1691,
     "dailyMinutesDown": {
+      "2026-02-24": 1,
       "2026-02-21": 19,
       "2026-02-20": 68,
       "2026-02-19": 49,
@@ -962,8 +965,7 @@
       "2025-08-28": 327,
       "2025-08-26": 299,
       "2025-08-25": 158,
-      "2025-08-22": 64,
-      "2025-08-14": 265
+      "2025-08-22": 64
     }
   },
   {
@@ -983,7 +985,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-23": 152,
+      "2026-02-24": 3,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -1346,8 +1349,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   },
   {
@@ -1362,12 +1364,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 632,
-    "timeDay": 646,
-    "timeWeek": 585,
-    "timeMonth": 600,
-    "timeYear": 649,
+    "timeDay": 609,
+    "timeWeek": 580,
+    "timeMonth": 602,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2026-02-23": 152,
+      "2026-02-24": 3,
+      "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -1730,8 +1733,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   }
 ]
