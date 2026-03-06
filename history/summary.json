@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "82.37%",
+    "uptime": "82.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "18.46%",
+    "uptimeYear": "18.41%",
     "time": 463,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2026-03-05": 1282,
+      "2026-03-06": 144,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -330,7 +331,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "44.62%",
+    "uptime": "44.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -341,7 +342,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 1282,
+      "2026-03-06": 144,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -704,8 +706,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-07": 1440
     }
   },
   {
@@ -714,18 +715,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "93.49%",
+    "uptime": "93.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "70.51%",
-    "time": 3493,
+    "uptimeYear": "70.45%",
+    "time": 3495,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3322,
+    "timeYear": 3324,
     "dailyMinutesDown": {
-      "2026-03-05": 1282,
+      "2026-03-06": 144,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -866,8 +868,7 @@
       "2025-03-10": 27,
       "2025-03-09": 161,
       "2025-03-08": 366,
-      "2025-03-07": 1,
-      "2025-03-06": 214
+      "2025-03-07": 1
     }
   },
   {
@@ -877,14 +878,14 @@
     "slug": "gst-login-page",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "82.00%",
+    "uptimeDay": "92.76%",
     "uptimeWeek": "88.82%",
     "uptimeMonth": "92.52%",
     "uptimeYear": "96.60%",
     "time": 1685,
-    "timeDay": 1706,
-    "timeWeek": 1782,
-    "timeMonth": 1722,
+    "timeDay": 1727,
+    "timeWeek": 1779,
+    "timeMonth": 1721,
     "timeYear": 1697,
     "dailyMinutesDown": {
       "2026-03-05": 104,
@@ -983,7 +984,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "6.86%",
+    "uptime": "6.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -994,7 +995,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 1282,
+      "2026-03-06": 144,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -1357,8 +1359,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-07": 1440
     }
   },
   {
@@ -1372,13 +1373,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 631,
-    "timeDay": 507,
-    "timeWeek": 450,
-    "timeMonth": 590,
-    "timeYear": 645,
+    "time": 629,
+    "timeDay": 285,
+    "timeWeek": 442,
+    "timeMonth": 571,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-03-05": 1282,
+      "2026-03-06": 144,
+      "2026-03-05": 1440,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -1741,8 +1743,7 @@
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
-      "2025-03-07": 1440,
-      "2025-03-06": 1440
+      "2025-03-07": 1440
     }
   }
 ]
