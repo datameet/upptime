@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "81.93%",
+    "uptime": "81.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "15.66%",
+    "uptimeYear": "15.39%",
     "time": 462,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 430,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2026-03-16": 163,
+      "2026-03-17": 147,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -341,7 +342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "44.38%",
+    "uptime": "44.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -352,7 +353,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-16": 163,
+      "2026-03-17": 147,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -715,8 +717,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1440
+      "2025-03-18": 1440
     }
   },
   {
@@ -725,18 +726,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "92.99%",
+    "uptime": "92.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "67.91%",
-    "time": 3488,
+    "uptimeYear": "67.64%",
+    "time": 3489,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3320,
+    "timeYear": 3322,
     "dailyMinutesDown": {
-      "2026-03-16": 163,
+      "2026-03-17": 147,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -881,8 +883,7 @@
       "2025-03-25": 224,
       "2025-03-23": 71,
       "2025-03-22": 227,
-      "2025-03-19": 75,
-      "2025-03-17": 90
+      "2025-03-19": 75
     }
   },
   {
@@ -894,13 +895,13 @@
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.53%",
-    "uptimeMonth": "94.81%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "96.60%",
-    "time": 1687,
-    "timeDay": 1772,
+    "time": 1688,
+    "timeDay": 1703,
     "timeWeek": 1751,
-    "timeMonth": 1746,
-    "timeYear": 1700,
+    "timeMonth": 1741,
+    "timeYear": 1701,
     "dailyMinutesDown": {
       "2026-03-12": 165,
       "2026-03-11": 85,
@@ -998,7 +999,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "6.82%",
+    "uptime": "6.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1009,7 +1010,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-16": 163,
+      "2026-03-17": 148,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -1372,8 +1374,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1440
+      "2025-03-18": 1440
     }
   },
   {
@@ -1388,12 +1389,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 638,
-    "timeDay": 916,
-    "timeWeek": 1172,
-    "timeMonth": 701,
+    "timeDay": 586,
+    "timeWeek": 1180,
+    "timeMonth": 699,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2026-03-16": 164,
+      "2026-03-17": 148,
+      "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
@@ -1756,8 +1758,7 @@
       "2025-03-21": 1440,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
-      "2025-03-18": 1440,
-      "2025-03-17": 1440
+      "2025-03-18": 1440
     }
   }
 ]
