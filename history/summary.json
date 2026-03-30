@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "81.37%",
+    "uptime": "81.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "12.11%",
-    "time": 452,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "11.84%",
+    "time": 451,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 187,
-    "timeYear": 451,
+    "timeYear": 453,
     "dailyMinutesDown": {
-      "2026-03-29": 165,
+      "2026-03-30": 168,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -341,8 +342,7 @@
       "2025-04-27": 20,
       "2025-04-20": 16,
       "2025-04-11": 24,
-      "2025-04-02": 29,
-      "2025-03-30": 16
+      "2025-04-02": 29
     }
   },
   {
@@ -351,10 +351,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "44.08%",
+    "uptime": "44.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -362,7 +362,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 165,
+      "2026-03-30": 168,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -725,8 +726,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -735,18 +735,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "92.35%",
+    "uptime": "92.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "64.48%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "64.20%",
     "time": 3501,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3306,
+    "timeYear": 3307,
     "dailyMinutesDown": {
-      "2026-03-29": 165,
+      "2026-03-30": 168,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -914,9 +915,9 @@
     "uptimeMonth": "95.18%",
     "uptimeYear": "96.61%",
     "time": 1688,
-    "timeDay": 1666,
-    "timeWeek": 1626,
-    "timeMonth": 1696,
+    "timeDay": 1722,
+    "timeWeek": 1692,
+    "timeMonth": 1697,
     "timeYear": 1701,
     "dailyMinutesDown": {
       "2026-03-27": 205,
@@ -1019,7 +1020,7 @@
     "uptime": "6.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1027,7 +1028,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-29": 165,
+      "2026-03-30": 168,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -1390,8 +1392,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   },
   {
@@ -1403,15 +1404,16 @@
     "uptime": "0.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 646,
-    "timeDay": 664,
-    "timeWeek": 572,
-    "timeMonth": 821,
+    "timeDay": 534,
+    "timeWeek": 561,
+    "timeMonth": 812,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2026-03-29": 165,
+      "2026-03-30": 168,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -1774,8 +1776,7 @@
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
-      "2025-03-31": 1440,
-      "2025-03-30": 1440
+      "2025-03-31": 1440
     }
   }
 ]
