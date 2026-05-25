@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "79.06%",
+    "uptime": "79.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 5372,
-    "timeDay": 39054,
-    "timeWeek": 39047,
-    "timeMonth": 39069,
-    "timeYear": 37023,
+    "time": 5651,
+    "timeDay": 39463,
+    "timeWeek": 39137,
+    "timeMonth": 39090,
+    "timeYear": 37145,
     "dailyMinutesDown": {
-      "2026-05-24": 236,
+      "2026-05-25": 247,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -379,8 +380,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "42.83%",
+    "uptime": "42.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 236,
+      "2026-05-25": 247,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -763,8 +764,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -773,18 +773,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "89.72%",
+    "uptime": "89.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.03%",
-    "time": 3431,
+    "uptimeYear": "49.87%",
+    "time": 3373,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3238,
+    "timeYear": 3239,
     "dailyMinutesDown": {
-      "2025-05-25": 243,
       "2025-05-29": 110,
       "2025-05-28": 215,
       "2025-06-22": 21,
@@ -804,7 +803,8 @@
       "2025-09-11": 96,
       "2025-10-01": 36,
       "2025-11-25": 52,
-      "2026-05-24": 236,
+      "2026-05-25": 247,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -987,13 +987,13 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "95.28%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.40%",
     "uptimeYear": "96.97%",
     "time": 1695,
-    "timeDay": 1769,
-    "timeWeek": 1804,
-    "timeMonth": 1754,
+    "timeDay": 1832,
+    "timeWeek": 1736,
+    "timeMonth": 1753,
     "timeYear": 1712,
     "dailyMinutesDown": {
       "2025-11-26": 252,
@@ -1091,7 +1091,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "6.58%",
+    "uptime": "6.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1102,7 +1102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 236,
+      "2026-05-25": 247,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -1465,8 +1466,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -1480,13 +1480,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 623,
-    "timeDay": 11,
-    "timeWeek": 20,
-    "timeMonth": 209,
-    "timeYear": 622,
+    "time": 622,
+    "timeDay": 61,
+    "timeWeek": 27,
+    "timeMonth": 202,
+    "timeYear": 620,
     "dailyMinutesDown": {
-      "2026-05-24": 236,
+      "2026-05-25": 247,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -1849,8 +1850,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   }
 ]
