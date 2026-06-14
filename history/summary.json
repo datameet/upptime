@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "78.26%",
+    "uptime": "78.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 10653,
-    "timeDay": 39149,
-    "timeWeek": 39020,
-    "timeMonth": 39093,
-    "timeYear": 38078,
+    "time": 10931,
+    "timeDay": 39451,
+    "timeWeek": 39056,
+    "timeMonth": 39109,
+    "timeYear": 38113,
     "dailyMinutesDown": {
-      "2026-06-13": 296,
+      "2026-06-14": 262,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -379,8 +380,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "42.40%",
+    "uptime": "42.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 296,
+      "2026-06-14": 262,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -763,8 +764,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "88.81%",
+    "uptime": "88.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.71%",
+    "uptimeYear": "44.45%",
     "time": 3374,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3256,
+    "timeYear": 3258,
     "dailyMinutesDown": {
       "2025-06-22": 21,
       "2025-07-03": 853,
@@ -801,7 +801,8 @@
       "2025-09-11": 96,
       "2025-10-01": 36,
       "2025-11-25": 52,
-      "2026-06-13": 296,
+      "2026-06-14": 262,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1003,14 +1004,14 @@
     "slug": "gst-login-page",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "60.95%",
-    "uptimeWeek": "90.66%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "93.26%",
     "uptimeYear": "96.89%",
     "time": 1691,
-    "timeDay": 1470,
-    "timeWeek": 1509,
-    "timeMonth": 1598,
+    "timeDay": 1594,
+    "timeWeek": 1552,
+    "timeMonth": 1595,
     "timeYear": 1704,
     "dailyMinutesDown": {
       "2025-12-18": 144,
@@ -1122,7 +1123,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 296,
+      "2026-06-14": 262,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1485,8 +1487,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -1500,13 +1501,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 599,
-    "timeDay": 55,
-    "timeWeek": 23,
-    "timeMonth": 24,
-    "timeYear": 583,
+    "time": 597,
+    "timeDay": 25,
+    "timeWeek": 24,
+    "timeMonth": 25,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-06-13": 296,
+      "2026-06-14": 262,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1869,8 +1871,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   }
 ]
