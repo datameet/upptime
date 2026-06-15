@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "78.23%",
+    "uptime": "78.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 10931,
-    "timeDay": 39451,
-    "timeWeek": 39056,
-    "timeMonth": 39109,
-    "timeYear": 38113,
+    "time": 11209,
+    "timeDay": 39361,
+    "timeWeek": 39158,
+    "timeMonth": 39116,
+    "timeYear": 38145,
     "dailyMinutesDown": {
-      "2026-06-14": 262,
+      "2026-06-15": 286,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -379,8 +380,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "42.37%",
+    "uptime": "42.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 262,
+      "2026-06-15": 286,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -763,8 +764,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "88.77%",
+    "uptime": "88.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.45%",
+    "uptimeYear": "44.17%",
     "time": 3374,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3258,
+    "timeYear": 3259,
     "dailyMinutesDown": {
       "2025-06-22": 21,
       "2025-07-03": 853,
@@ -801,7 +801,8 @@
       "2025-09-11": 96,
       "2025-10-01": 36,
       "2025-11-25": 52,
-      "2026-06-14": 262,
+      "2026-06-15": 286,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1004,14 +1005,14 @@
     "slug": "gst-login-page",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.42%",
-    "uptimeMonth": "93.26%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "96.89%",
     "time": 1691,
-    "timeDay": 1594,
-    "timeWeek": 1552,
-    "timeMonth": 1595,
+    "timeDay": 1713,
+    "timeWeek": 1563,
+    "timeMonth": 1593,
     "timeYear": 1704,
     "dailyMinutesDown": {
       "2025-12-18": 144,
@@ -1112,7 +1113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "6.51%",
+    "uptime": "6.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1123,7 +1124,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 262,
+      "2026-06-15": 286,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1486,8 +1488,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   },
   {
@@ -1501,13 +1502,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 597,
-    "timeDay": 25,
-    "timeWeek": 24,
-    "timeMonth": 25,
-    "timeYear": 582,
+    "time": 596,
+    "timeDay": 59,
+    "timeWeek": 31,
+    "timeMonth": 26,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-06-14": 262,
+      "2026-06-15": 286,
+      "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1870,8 +1872,7 @@
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
-      "2025-06-16": 1440,
-      "2025-06-15": 1440
+      "2025-06-16": 1440
     }
   }
 ]
