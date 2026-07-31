@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "76.46%",
+    "uptime": "76.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 23604,
-    "timeDay": 39161,
-    "timeWeek": 39150,
-    "timeMonth": 39152,
-    "timeYear": 38740,
+    "time": 23881,
+    "timeDay": 39098,
+    "timeWeek": 39134,
+    "timeMonth": 39150,
+    "timeYear": 38744,
     "dailyMinutesDown": {
-      "2026-07-30": 155,
+      "2026-07-31": 196,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -379,8 +380,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "41.42%",
+    "uptime": "41.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 155,
+      "2026-07-31": 196,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -763,8 +764,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -773,12 +773,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "86.76%",
+    "uptime": "86.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "34.47%",
-    "time": 3322,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "34.19%",
+    "time": 3324,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -790,7 +790,8 @@
       "2025-09-11": 96,
       "2025-10-01": 36,
       "2025-11-25": 52,
-      "2026-07-30": 155,
+      "2026-07-31": 196,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -1043,11 +1044,11 @@
     "uptimeWeek": "97.67%",
     "uptimeMonth": "96.94%",
     "uptimeYear": "96.79%",
-    "time": 1686,
-    "timeDay": 1732,
-    "timeWeek": 1646,
-    "timeMonth": 1543,
-    "timeYear": 1695,
+    "time": 1685,
+    "timeDay": 970,
+    "timeWeek": 1522,
+    "timeMonth": 1530,
+    "timeYear": 1694,
     "dailyMinutesDown": {
       "2026-01-08": 56,
       "2026-01-07": 258,
@@ -1156,7 +1157,7 @@
     "uptime": "6.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1164,7 +1165,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 155,
+      "2026-07-31": 196,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -1527,8 +1529,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -1540,15 +1541,16 @@
     "uptime": "0.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 538,
-    "timeDay": 25,
-    "timeWeek": 26,
+    "timeDay": 15,
+    "timeWeek": 25,
     "timeMonth": 24,
-    "timeYear": 497,
+    "timeYear": 496,
     "dailyMinutesDown": {
-      "2026-07-30": 155,
+      "2026-07-31": 196,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -1911,8 +1913,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   }
 ]
