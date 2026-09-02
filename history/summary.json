@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "75.22%",
+    "uptime": "75.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 32770,
-    "timeDay": 39283,
-    "timeWeek": 41954,
-    "timeMonth": 40603,
-    "timeYear": 38892,
+    "time": 33050,
+    "timeDay": 39144,
+    "timeWeek": 41983,
+    "timeMonth": 40604,
+    "timeYear": 38893,
     "dailyMinutesDown": {
-      "2026-09-01": 1173,
+      "2026-09-02": 55,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -379,8 +380,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "40.75%",
+    "uptime": "40.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-01": 1173,
+      "2026-09-02": 56,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -763,8 +764,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -773,22 +773,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "85.35%",
+    "uptime": "85.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.27%",
-    "time": 3313,
+    "uptimeYear": "25.21%",
+    "time": 3314,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3270,
+    "timeYear": 3273,
     "dailyMinutesDown": {
       "2025-09-04": 226,
       "2025-09-11": 96,
       "2025-10-01": 36,
       "2025-11-25": 52,
-      "2026-09-01": 1173,
+      "2026-09-02": 56,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -1068,17 +1069,17 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "67.49%",
-    "uptimeWeek": "88.99%",
-    "uptimeMonth": "94.79%",
-    "uptimeYear": "96.70%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "53.75%",
+    "uptimeWeek": "87.49%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "96.64%",
     "time": 1677,
-    "timeDay": 1459,
-    "timeWeek": 1560,
-    "timeMonth": 1518,
-    "timeYear": 1684,
+    "timeDay": 1448,
+    "timeWeek": 1534,
+    "timeMonth": 1514,
+    "timeYear": 1683,
     "dailyMinutesDown": {
       "2026-02-01": 24,
       "2026-02-02": 111,
@@ -1176,8 +1177,9 @@
       "2026-08-25": 192,
       "2026-08-27": 253,
       "2026-08-26": 223,
-      "2026-09-01": 404,
-      "2026-08-31": 63
+      "2026-09-01": 671,
+      "2026-08-31": 63,
+      "2026-09-02": 50
     }
   },
   {
@@ -1197,7 +1199,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-01": 1173,
+      "2026-09-02": 56,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -1560,8 +1563,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   },
   {
@@ -1575,13 +1577,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 494,
+    "time": 492,
     "timeDay": 12,
     "timeWeek": 18,
     "timeMonth": 21,
-    "timeYear": 454,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2026-09-01": 1174,
+      "2026-09-02": 56,
+      "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
@@ -1944,8 +1947,7 @@
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
-      "2025-09-03": 1440,
-      "2025-09-02": 1440
+      "2025-09-03": 1440
     }
   }
 ]
