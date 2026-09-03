@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "75.21%",
+    "uptime": "75.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 33050,
-    "timeDay": 39004,
-    "timeWeek": 41983,
-    "timeMonth": 40604,
-    "timeYear": 38893,
+    "time": 33333,
+    "timeDay": 39308,
+    "timeWeek": 41649,
+    "timeMonth": 40613,
+    "timeYear": 38897,
     "dailyMinutesDown": {
-      "2026-09-02": 215,
+      "2026-09-03": 215,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -379,8 +380,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ssup.uidai.gov.in.ico",
     "slug": "aadhaar-login",
     "status": "down",
-    "uptime": "40.74%",
+    "uptime": "40.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 215,
+      "2026-09-03": 215,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -763,8 +764,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -773,22 +773,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "85.33%",
+    "uptime": "85.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.18%",
+    "uptimeYear": "24.91%",
     "time": 3314,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3273,
+    "timeYear": 3272,
     "dailyMinutesDown": {
       "2025-09-04": 226,
       "2025-09-11": 96,
       "2025-10-01": 36,
       "2025-11-25": 52,
-      "2026-09-02": 215,
+      "2026-09-03": 215,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1071,14 +1072,14 @@
     "slug": "gst-login-page",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "64.82%",
-    "uptimeWeek": "87.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.83%",
     "uptimeMonth": "94.07%",
     "uptimeYear": "96.64%",
     "time": 1677,
-    "timeDay": 1499,
-    "timeWeek": 1534,
-    "timeMonth": 1514,
+    "timeDay": 1692,
+    "timeWeek": 1555,
+    "timeMonth": 1520,
     "timeYear": 1683,
     "dailyMinutesDown": {
       "2026-02-01": 24,
@@ -1188,7 +1189,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "6.26%",
+    "uptime": "6.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1199,7 +1200,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 215,
+      "2026-09-03": 215,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1562,8 +1564,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -1577,13 +1578,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 492,
-    "timeDay": 12,
-    "timeWeek": 18,
+    "time": 491,
+    "timeDay": 11,
+    "timeWeek": 17,
     "timeMonth": 21,
-    "timeYear": 452,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2026-09-02": 215,
+      "2026-09-03": 215,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1946,8 +1948,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   }
 ]
