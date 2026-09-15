@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "74.72%",
+    "uptime": "74.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 40467,
     "timeYear": 39036,
     "dailyMinutesDown": {
-      "2026-09-15": 1204,
+      "2026-09-15": 1360,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-15": 1204,
+      "2026-09-15": 1360,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
@@ -777,7 +777,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.49%",
+    "uptimeYear": "21.46%",
     "time": 3262,
     "timeDay": 0,
     "timeWeek": 0,
@@ -786,7 +786,7 @@
     "dailyMinutesDown": {
       "2025-10-01": 36,
       "2025-11-25": 52,
-      "2026-09-15": 1204,
+      "2026-09-15": 1360,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
@@ -1080,16 +1080,16 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "96.58%",
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "89.19%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "96.55%",
     "time": 1679,
-    "timeDay": 1394,
-    "timeWeek": 1917,
-    "timeMonth": 1607,
+    "timeDay": 1509,
+    "timeWeek": 1932,
+    "timeMonth": 1610,
     "timeYear": 1681,
     "dailyMinutesDown": {
       "2026-02-05": 57,
@@ -1192,7 +1192,7 @@
       "2026-09-03": 200,
       "2026-09-05": 36,
       "2026-09-08": 165,
-      "2026-09-15": 5
+      "2026-09-15": 156
     }
   },
   {
@@ -1212,7 +1212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-15": 1204,
+      "2026-09-15": 1360,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
@@ -1596,7 +1596,7 @@
     "timeMonth": 27,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2026-09-15": 1204,
+      "2026-09-15": 1360,
       "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
