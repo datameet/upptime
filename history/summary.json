@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/datameet.org.ico",
     "slug": "data-meet",
     "status": "down",
-    "uptime": "72.22%",
+    "uptime": "72.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -13,10 +13,11 @@
     "time": 39978,
     "timeDay": 39147,
     "timeWeek": 44713,
-    "timeMonth": 45451,
+    "timeMonth": 45676,
     "timeYear": 39978,
     "dailyMinutesDown": {
-      "2026-11-26": 1245,
+      "2026-11-27": 203,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -379,8 +380,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 1245,
+      "2026-11-27": 203,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -763,8 +764,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal2.passportindia.gov.in.ico",
     "slug": "passport-user-registration-page",
     "status": "down",
-    "uptime": "81.94%",
+    "uptime": "81.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.78%",
+    "uptimeYear": "1.70%",
     "time": 3265,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2423,
+    "timeYear": 2395,
     "dailyMinutesDown": {
-      "2026-11-26": 1245,
+      "2026-11-27": 203,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -1150,17 +1151,17 @@
     "url": "https://services.gst.gov.in/services/login",
     "icon": "https://icons.duckduckgo.com/ip3/services.gst.gov.in.ico",
     "slug": "gst-login-page",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "73.19%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "90.35%",
-    "uptimeYear": "95.78%",
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "72.33%",
+    "uptimeWeek": "87.51%",
+    "uptimeMonth": "89.45%",
+    "uptimeYear": "95.70%",
     "time": 1673,
-    "timeDay": 1403,
-    "timeWeek": 1423,
-    "timeMonth": 1530,
-    "timeYear": 1653,
+    "timeDay": 1377,
+    "timeWeek": 1439,
+    "timeMonth": 1531,
+    "timeYear": 1652,
     "dailyMinutesDown": {
       "2026-02-17": 72,
       "2026-02-19": 49,
@@ -1280,8 +1281,9 @@
       "2026-11-17": 136,
       "2026-11-24": 386,
       "2026-11-23": 76,
-      "2026-11-26": 191,
-      "2026-11-25": 213
+      "2026-11-26": 386,
+      "2026-11-25": 213,
+      "2026-11-27": 198
     }
   },
   {
@@ -1290,7 +1292,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ksndmc.org.ico",
     "slug": "karnataka-state-natural-disaster-management-centre",
     "status": "down",
-    "uptime": "6.01%",
+    "uptime": "6.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1301,7 +1303,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-26": 1245,
+      "2026-11-27": 204,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -1664,8 +1667,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -1682,10 +1684,11 @@
     "time": 382,
     "timeDay": 41,
     "timeWeek": 29,
-    "timeMonth": 25,
-    "timeYear": 287,
+    "timeMonth": 24,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2026-11-26": 1245,
+      "2026-11-27": 204,
+      "2026-11-26": 1440,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -2048,8 +2051,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   }
 ]
